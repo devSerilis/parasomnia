@@ -4,28 +4,18 @@
     DetectHiddenWindows True
     ScriptFileName := SubStr(A_LineFile, InStr(A_LineFile, "\",, -1) + 1)
     if (WinExist(ScriptFileName " ahk_class AutoHotkey")) {
-        MsgBox("This is a sub-module of omni.ahk and is not intended to be run independently. Forcibly Terminating Now.")
+        MsgBox("This is a sub-module of parasomnia.ahk and is not intended to be run independently. Forcibly Terminating Now.")
         ExitApp
     }
 }
 
-
-; CheckCommandPalette() {
-;     cmdPalPath := "C:\Program Files\WindowsApps\Microsoft.CommandPalette_0.6.2882.0_x64__8wekyb3d8bbwe\Microsoft.CmdPal.UI.exe"
-;     
-;     ; Check if Microsoft.CmdPal.UI.exe is running
-;     if (!ProcessExist("Microsoft.CmdPal.UI.exe")) {
-;         ; Command Palette is not running, launch it
-;         try {
-;             Run(cmdPalPath)
-;             ; Wait a moment for it to start
-;             Sleep(2000)
-;         } catch as err {
-;             ToolTip("Failed to launch PowerToys Command Palette: " . err.Message)
-;             SetTimer(() => ToolTip(), -3000)
-;         }
-;     }
-; }
+IsInArray(needle, haystack) {
+    for item in haystack {
+        if (item = needle)
+            return true
+    }
+    return false
+}
 
 aSyncMsgBox(Message) {
      MsgBox Message, "Alert!"
@@ -40,7 +30,7 @@ openScriptsFolder(*) {
 }
 
 reloadScript(*) {
-    ToolTip("Reloading OmniScript...")
+    ToolTip("Reloading Parasomnia...")
     Reload()
 }
 

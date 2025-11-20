@@ -4,15 +4,13 @@
     DetectHiddenWindows True
     ScriptFileName := SubStr(A_LineFile, InStr(A_LineFile, "\",, -1) + 1)
     if (WinExist(ScriptFileName " ahk_class AutoHotkey")) {
-        MsgBox("This is a sub-module of omni.ahk and is not intended to be run independently. Forcibly Terminating Now.")
+        MsgBox("This is a sub-module of parasomnia.ahk and is not intended to be run independently. Forcibly Terminating Now.")
         ExitApp
     }
 }
 
 
-; *=========== DEFINE CUSTOM MODIFIER KEYS ===========*
-KC_MEH := "!^+" ; Define the Meh key combination as Alt+Ctrl+Shift
-KC_HYPR := "#!^+" ; Define the Hyper key combination as Win+Alt+Ctrl+Shift
+
 
 
 
@@ -36,6 +34,4 @@ Hotkey("F13", launchCommandPalette)
 Hotkey("^J", gotoDownloads) 
 Hotkey("#Enter", launchTerminal)
 Hotkey("^!T", launchTerminal)
-
-
 

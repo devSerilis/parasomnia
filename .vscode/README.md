@@ -1,4 +1,4 @@
-# OmniScript - AutoHotkey v2.0 Utility Suite
+parasomnia - AutoHotkey v2.0 Utility Suite
 
 A comprehensive AutoHotkey v2.0 script collection for Windows automation, hotkeys, and quality-of-life improvements.
 
@@ -25,7 +25,7 @@ A comprehensive AutoHotkey v2.0 script collection for Windows automation, hotkey
 
 1. Install [AutoHotkey v2.0](https://www.autohotkey.com/v2/) or later
 2. Clone or download this repository
-3. Run `omni.ahk` (requires administrator privileges)
+3. Run `parasomnia.ahk` (requires administrator privileges)
 
 ## Usage
 
@@ -44,8 +44,8 @@ The script automatically:
 ## Script Structure
 
 ```
-omni/
-├── omni.ahk                    # Main entry point
+parasomnia/
+├── parasomnia.ahk                    # Main entry point
 ├── scripts/
 │   ├── criticalFunctions/      # Essential monitoring scripts
 │   │   ├── watchDog.ahk

@@ -8,7 +8,7 @@ SetTimer(CheckCommandPalette, 5000)  ; Check Command Palette every 5 seconds
 
 CheckMainScript() {
     ; Get the full path of our target script
-    targetScript := A_ScriptDir . "\omni.ahk"
+    targetScript := A_ScriptDir . "\parasomnia.ahk"
     
     ; Use ProcessExist to check if our script is still running
     ; We'll need to look at the command line of each AutoHotkey process
@@ -21,7 +21,7 @@ CheckMainScript() {
         SetTitleMatchMode(2)  ; Partial match
         
         ; Check if our script window exists
-        if (!WinExist("omni.ahk ahk_exe AutoHotkey64.exe")) {
+        if (!WinExist("parasomnia.ahk ahk_exe AutoHotkey64.exe")) {
             Sleep(1000)  ; Brief delay before restart
             Run(targetScript)
         }
