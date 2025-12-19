@@ -180,6 +180,28 @@ GuiDisableCloseButton(Handle)
     return DllCall("user32\DrawMenuBar", "Ptr", Handle)
 }
 
+; Function to check if Windows is in dark mode
+IsDarkMode(*) {
+    try {
+        value := RegRead("HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize", "AppsUseLightTheme")
+        return value = 0  ; Returns true if dark mode (0), false if light mode (1)
+    }
+    catch {
+        return false  ; Default to light mode if key doesn't exist
+    }
+}
+
+
+SetThemeAppropriateIcon(*) {
+    if IsDarkMode() {
+        TraySetIcon("parasomnia.ico")  ; Light icon for dark background
+    } else {
+        TraySetIcon("parasomnia-dark.ico")   ; Dark icon for light background
+    }
+}
+
+
+
 /* 
  CheckCommandPalette() {
     cmdPalPath := "C:\Program Files\WindowsApps\Microsoft.CommandPalette_0.6.2882.0_x64__8wekyb3d8bbwe\Microsoft.CmdPal.UI.exe"

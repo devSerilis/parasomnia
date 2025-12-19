@@ -17,6 +17,7 @@ autorun_timeKeepings(*) {
 }
 /* ------------------------------------------------------------------------------------------------------ */
 
+
 ; Core function - returns minutes since midnight
 currentTimeInMinutes() {
     return (A_Hour * 60) + (A_Min)

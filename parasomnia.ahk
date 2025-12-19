@@ -10,7 +10,7 @@ InstallKeybdHook()
 SetWorkingDir(A_ScriptDir)
 ProcessSetPriority("High")
 SetTitleMatchMode(2)
-TraySetIcon("parasomnia.ico")
+;TraySetIcon("parasomnia-dark.ico")
 SetCapsLockState("AlwaysOff")
 SetNumLockState("AlwaysOn")
 SetScrollLockState("AlwaysOff")
@@ -33,9 +33,9 @@ A_MenuMaskKey := "vkFF"
 #Include scripts/modules/VRGameFocusManager.ahk               ; Ensures Game Focus for HereSphere
 #Include scripts/modules/comPalGuard.ahk                      ; Closes Command Pallette when it loses Focus
 #Include scripts/modules/toggleWindowsTitlebar.ahk            ; Toggles the Windows Native Titlebar & Border
+#Include scripts/modules/HealthCheck.ahk                      ; Function that runs every 5 secs, performing various script health checks.
 
-
-
+SetThemeAppropriateIcon()
 
 
 ; =========== VERIFY THE COMMAND PALETTE IS RUNNING ===========
