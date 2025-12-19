@@ -17,7 +17,7 @@ autorun_toggleWindowsTitlebar(*) {
 }
 /* ------------------------------------------------------------------------------------------------------ */
 
-toggleWindowsTitlebar(){
+toggleWindowsTitlebar(*){
     MsgBox("Triggered")
     hwnd := WinGetID("A")
     style := WinGetStyle(hwnd)
