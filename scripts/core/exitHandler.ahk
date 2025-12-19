@@ -1,4 +1,8 @@
+; Handles script exit events - restores hidden windows on normal exit, force-kills AutoHotkey processes on system shutdown/logoff
+
 #Requires AutoHotkey v2.0
+
+
 
 {
     DetectHiddenWindows True
@@ -9,17 +13,25 @@
     }
 }
 
+autorun_exitHandler(*){
+    Return
+}
+
+
 
 
 ExitFunc(ExitReason, ExitCode) {
+    global HiddenWindows
     ; If shutting down/logging off, exit immediately without restoring windows
-    if (ExitReason = "Logoff" or ExitReason = "Shutdown")
-    {
+    if (ExitReason = "Logoff" or ExitReason = "Shutdown") {
         Run("PowerShell.exe -Command `"taskkill /f /im AutoHotkey64.exe`"",, "Hide")
         Run("PowerShell.exe -Command `"taskkill /f /im AutoHotkeyUX.exe`"",, "Hide")
     }
-    ; For all other exit reasons (user closing script, crash, etc.), restore windows
-    else if (WinExist("ahk_state Hidden")) {
-        WinShow("ahk_state Hidden")
+    else {
+        DetectHiddenWindows True
+        for Handle in HiddenWindows {
+            WinShow(Handle)
+        }
     }
 }
+

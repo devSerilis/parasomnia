@@ -1,0 +1,1196 @@
+2025-11-20 15:43:00 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:43:00 - Mouse position: 1097, 1731 | Window ID: 65864
+2025-11-20 15:43:00 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:43:00 - Waiting for MButton release...
+2025-11-20 15:43:00 - MButton released
+2025-11-20 15:43:00 - Hotkey disabled
+2025-11-20 15:43:00 - Sent key releases
+2025-11-20 15:43:00 - Currently active - ID: 197172 | Class: Windows.UI.Core.CoreWindow | Process: SearchHost.exe
+2025-11-20 15:43:00 - Strategy: Using currently active window
+2025-11-20 15:43:00 - Validating window - Class: Windows.UI.Core.CoreWindow
+2025-11-20 15:43:00 - Checking if explorer.exe - Process: SearchHost.exe
+2025-11-20 15:43:00 - SUCCESS: Killing all instances of SearchHost.exe
+2025-11-20 15:43:00 - Hotkey re-enabled
+2025-11-20 15:43:00 - ========== COMPLETED ==========
+2025-11-20 15:43:00 - 
+2025-11-20 15:43:09 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:43:09 - Mouse position: 6506, 2246 | Window ID: 65864
+2025-11-20 15:43:09 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:43:09 - Waiting for MButton release...
+2025-11-20 15:43:09 - MButton released
+2025-11-20 15:43:09 - Hotkey disabled
+2025-11-20 15:43:09 - Sent key releases
+2025-11-20 15:43:09 - Currently active - ID: 65900 | Class: Progman | Process: explorer.exe
+2025-11-20 15:43:09 - Strategy: Clicking to activate
+2025-11-20 15:43:09 - Sending 1st click...
+2025-11-20 15:43:09 - AFTER 1st Click - ID: 65838 | Class: Shell_TrayWnd | Process: explorer.exe
+2025-11-20 15:43:09 - Got desktop/taskbar - clicking again...
+2025-11-20 15:43:10 - AFTER 2nd Click - ID: 65838 | Class: Shell_TrayWnd | Process: explorer.exe
+2025-11-20 15:43:10 - Validating window - Class: Shell_TrayWnd
+2025-11-20 15:43:10 - FAILED: Desktop/taskbar detected, cannot identify application
+2025-11-20 15:44:30 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:44:30 - Mouse position: 1097, 1366 | Window ID: 65864
+2025-11-20 15:44:30 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:44:30 - Waiting for MButton release...
+2025-11-20 15:44:30 - MButton released
+2025-11-20 15:44:30 - Hotkey disabled
+2025-11-20 15:44:30 - Sent key releases
+2025-11-20 15:44:30 - Currently active - ID: 1445952 | Class: Notepad | Process: Notepad.exe
+2025-11-20 15:44:30 - Strategy: Using currently active window
+2025-11-20 15:44:30 - Validating window - Class: Notepad
+2025-11-20 15:44:30 - Checking if explorer.exe - Process: Notepad.exe
+2025-11-20 15:44:30 - SUCCESS: Killing all instances of Notepad.exe
+2025-11-20 15:44:30 - Hotkey re-enabled
+2025-11-20 15:44:30 - ========== COMPLETED ==========
+2025-11-20 15:44:30 - 
+2025-11-20 15:44:41 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:44:41 - Mouse position: 875, 1734 | Window ID: 65864
+2025-11-20 15:44:41 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:44:41 - Waiting for MButton release...
+2025-11-20 15:44:41 - MButton released
+2025-11-20 15:44:41 - Hotkey disabled
+2025-11-20 15:44:41 - Sent key releases
+2025-11-20 15:44:41 - Currently active - ID: 1904616 | Class: Notepad | Process: Notepad.exe
+2025-11-20 15:44:41 - Strategy: Using currently active window
+2025-11-20 15:44:41 - Validating window - Class: Notepad
+2025-11-20 15:44:41 - Checking if explorer.exe - Process: Notepad.exe
+2025-11-20 15:44:41 - SUCCESS: Killing all instances of Notepad.exe
+2025-11-20 15:44:41 - Hotkey re-enabled
+2025-11-20 15:44:41 - ========== COMPLETED ==========
+2025-11-20 15:44:41 - 
+2025-11-20 15:44:48 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:44:48 - Mouse position: 1486, 1500 | Window ID: 65864
+2025-11-20 15:44:48 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:44:48 - Waiting for MButton release...
+2025-11-20 15:44:48 - MButton released
+2025-11-20 15:44:48 - Hotkey disabled
+2025-11-20 15:44:48 - Sent key releases
+2025-11-20 15:44:48 - Currently active - ID: 1838856 | Class: Notepad | Process: Notepad.exe
+2025-11-20 15:44:48 - Strategy: Using currently active window
+2025-11-20 15:44:48 - Validating window - Class: Notepad
+2025-11-20 15:44:48 - Checking if explorer.exe - Process: Notepad.exe
+2025-11-20 15:44:48 - SUCCESS: Killing all instances of Notepad.exe
+2025-11-20 15:44:48 - Hotkey re-enabled
+2025-11-20 15:44:48 - ========== COMPLETED ==========
+2025-11-20 15:44:48 - 
+2025-11-20 15:44:58 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:44:58 - Mouse position: 327, 1580 | Window ID: 65864
+2025-11-20 15:44:58 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:44:58 - Waiting for MButton release...
+2025-11-20 15:44:58 - MButton released
+2025-11-20 15:44:58 - Hotkey disabled
+2025-11-20 15:44:58 - Sent key releases
+2025-11-20 15:44:58 - Currently active - ID: 1576732 | Class: Notepad | Process: Notepad.exe
+2025-11-20 15:44:58 - Strategy: Using currently active window
+2025-11-20 15:44:58 - Validating window - Class: Notepad
+2025-11-20 15:44:58 - Checking if explorer.exe - Process: Notepad.exe
+2025-11-20 15:44:58 - SUCCESS: Killing all instances of Notepad.exe
+2025-11-20 15:44:58 - Hotkey re-enabled
+2025-11-20 15:44:58 - ========== COMPLETED ==========
+2025-11-20 15:44:58 - 
+2025-11-20 15:45:08 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:45:08 - Mouse position: 1562, 1521 | Window ID: 65864
+2025-11-20 15:45:08 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:45:08 - Waiting for MButton release...
+2025-11-20 15:45:08 - MButton released
+2025-11-20 15:45:08 - Hotkey disabled
+2025-11-20 15:45:09 - Sent key releases
+2025-11-20 15:45:09 - Currently active - ID: 135836 | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-20 15:45:09 - Strategy: Using currently active window
+2025-11-20 15:45:09 - Validating window - Class: PX_WINDOW_CLASS
+2025-11-20 15:45:09 - Checking if explorer.exe - Process: sublime_text.exe
+2025-11-20 15:45:09 - SUCCESS: Killing all instances of sublime_text.exe
+2025-11-20 15:45:09 - Hotkey re-enabled
+2025-11-20 15:45:09 - ========== COMPLETED ==========
+2025-11-20 15:45:09 - 
+2025-11-20 15:45:10 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:45:10 - Mouse position: 1393, 1415 | Window ID: 65864
+2025-11-20 15:45:10 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:45:10 - Waiting for MButton release...
+2025-11-20 15:45:10 - MButton released
+2025-11-20 15:45:10 - Hotkey disabled
+2025-11-20 15:45:10 - Sent key releases
+2025-11-20 15:45:10 - Currently active - ID: 1641848 | Class: Notepad | Process: Notepad.exe
+2025-11-20 15:45:10 - Strategy: Using currently active window
+2025-11-20 15:45:10 - Validating window - Class: Notepad
+2025-11-20 15:45:10 - Checking if explorer.exe - Process: Notepad.exe
+2025-11-20 15:45:10 - SUCCESS: Killing all instances of Notepad.exe
+2025-11-20 15:45:10 - Hotkey re-enabled
+2025-11-20 15:45:10 - ========== COMPLETED ==========
+2025-11-20 15:45:10 - 
+2025-11-20 15:45:19 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:45:19 - Mouse position: 36, 1513 | Window ID: 65864
+2025-11-20 15:45:19 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:45:19 - Waiting for MButton release...
+2025-11-20 15:45:20 - MButton released
+2025-11-20 15:45:20 - Hotkey disabled
+2025-11-20 15:45:20 - Sent key releases
+2025-11-20 15:45:20 - Currently active - ID: 2818842 | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-20 15:45:20 - Strategy: Using currently active window
+2025-11-20 15:45:20 - Validating window - Class: PX_WINDOW_CLASS
+2025-11-20 15:45:20 - Checking if explorer.exe - Process: sublime_text.exe
+2025-11-20 15:45:20 - SUCCESS: Killing all instances of sublime_text.exe
+2025-11-20 15:45:20 - Hotkey re-enabled
+2025-11-20 15:45:20 - ========== COMPLETED ==========
+2025-11-20 15:45:20 - 
+2025-11-20 15:45:37 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:45:37 - Mouse position: 2751, 1619 | Window ID: 65864
+2025-11-20 15:45:37 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:45:37 - Waiting for MButton release...
+2025-11-20 15:45:38 - MButton released
+2025-11-20 15:45:38 - Hotkey disabled
+2025-11-20 15:45:38 - Sent key releases
+2025-11-20 15:45:38 - Currently active - ID: 2297856 | Class: Notepad | Process: Notepad.exe
+2025-11-20 15:45:38 - Strategy: Using currently active window
+2025-11-20 15:45:38 - Validating window - Class: Notepad
+2025-11-20 15:45:38 - Checking if explorer.exe - Process: Notepad.exe
+2025-11-20 15:45:38 - SUCCESS: Killing all instances of Notepad.exe
+2025-11-20 15:45:38 - Hotkey re-enabled
+2025-11-20 15:45:38 - ========== COMPLETED ==========
+2025-11-20 15:45:38 - 
+2025-11-20 15:46:29 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:46:29 - Mouse position: 1489, 1376 | Window ID: 65838
+2025-11-20 15:46:29 - Taskbar class: Shell_TrayWnd
+2025-11-20 15:46:29 - Waiting for MButton release...
+2025-11-20 15:46:29 - MButton released
+2025-11-20 15:46:29 - Hotkey disabled
+2025-11-20 15:46:29 - Sent key releases
+2025-11-20 15:46:29 - Currently active - ID: 1903262 | Class: Chrome_WidgetWin_1 | Process: msedge.exe
+2025-11-20 15:46:29 - Strategy: Using currently active window
+2025-11-20 15:46:29 - Validating window - Class: Chrome_WidgetWin_1
+2025-11-20 15:46:29 - Checking if explorer.exe - Process: msedge.exe
+2025-11-20 15:46:29 - SUCCESS: Killing all instances of msedge.exe
+2025-11-20 15:46:29 - Hotkey re-enabled
+2025-11-20 15:46:29 - ========== COMPLETED ==========
+2025-11-20 15:46:29 - 
+2025-11-20 15:48:07 - ========== HOTKEY TRIGGERED ==========
+2025-11-20 15:48:07 - Mouse position: 5110, 1764 | Window ID: 65864
+2025-11-20 15:48:07 - Taskbar class: Shell_SecondaryTrayWnd
+2025-11-20 15:48:07 - Waiting for MButton release...
+2025-11-20 15:48:07 - MButton released
+2025-11-20 15:48:07 - Hotkey disabled
+2025-11-20 15:48:07 - Sent key releases
+2025-11-20 15:48:07 - Currently active - ID: 655958 | Class: Chrome_WidgetWin_1 | Process: Code.exe
+2025-11-20 15:48:07 - Strategy: Using currently active window
+2025-11-20 15:48:07 - Validating window - Class: Chrome_WidgetWin_1
+2025-11-20 15:48:07 - Checking if explorer.exe - Process: Code.exe
+2025-11-20 15:48:07 - SUCCESS: Killing all instances of Code.exe
+2025-11-20 15:48:07 - Hotkey re-enabled
+2025-11-20 15:48:07 - ========== COMPLETED ==========
+2025-11-20 15:48:07 - 
+2025-11-20 16:04:37 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-20 16:04:37 - Mouse position: 4861, 1658 | Window ID: 65864
+2025-11-20 16:04:37 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-20 16:04:37 - Confirmed on taskbar - proceeding
+2025-11-20 16:04:37 - Calling GetTaskbarWindow()...
+2025-11-20 16:04:37 - GetTaskbarWindow() returned window ID: 3870430
+2025-11-20 16:04:37 - Target window - ID: 3870430 | Class: Notepad | Title: Untitled - Notepad | Process: Notepad.exe
+2025-11-20 16:04:37 - Executing: taskkill /F /IM Notepad.exe
+2025-11-20 16:04:37 - SUCCESS: Killed all instances of Notepad.exe
+2025-11-20 16:04:37 - ========== COMPLETED ==========
+2025-11-20 16:04:37 - 
+2025-11-20 16:08:24 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-20 16:08:24 - Mouse position: -691, 1266 | Window ID: 65864
+2025-11-20 16:08:24 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-20 16:08:24 - Confirmed on taskbar - proceeding
+2025-11-20 16:08:24 - Calling GetTaskbarWindow()...
+2025-11-20 16:08:24 - GetTaskbarWindow() returned window ID: 3346102
+2025-11-20 16:08:24 - Target window - ID: 3346102 | Class: PX_WINDOW_CLASS | Title: untitled • - Sublime Text (UNREGISTERED) | Process: sublime_text.exe
+2025-11-20 16:08:24 - Executing: taskkill /F /IM sublime_text.exe
+2025-11-20 16:08:24 - SUCCESS: Killed all instances of sublime_text.exe
+2025-11-20 16:08:24 - ========== COMPLETED ==========
+2025-11-20 16:08:24 - 
+2025-11-20 16:08:30 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-20 16:08:30 - Mouse position: 171, 1192 | Window ID: 65838
+2025-11-20 16:08:30 - Window class under cursor: Shell_TrayWnd
+2025-11-20 16:08:30 - Confirmed on taskbar - proceeding
+2025-11-20 16:08:30 - Calling GetTaskbarWindow()...
+2025-11-20 16:08:30 - GetTaskbarWindow() returned window ID: 4000924
+2025-11-20 16:08:30 - Target window - ID: 4000924 | Class: VanDyke Software - SecureCRT | Title: wybovaxa-jump - SecureCRT | Process: SecureCRT.exe
+2025-11-20 16:08:30 - Executing: taskkill /F /IM SecureCRT.exe
+2025-11-20 16:08:30 - SUCCESS: Killed all instances of SecureCRT.exe
+2025-11-20 16:08:30 - ========== COMPLETED ==========
+2025-11-20 16:08:30 - 
+2025-11-20 16:08:40 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-20 16:08:40 - Active window - ID: 198986 | Title: TaskbarClose - Everything | Class: EVERYTHING | Process: Everything.exe
+2025-11-20 16:08:40 - Mouse position: 877, 1317 | Window ID under cursor: 65838
+2025-11-20 16:08:40 - Window class under cursor: Shell_TrayWnd
+2025-11-20 16:08:40 - Confirmed on taskbar - proceeding
+2025-11-20 16:08:40 - Calling GetTaskbarWindow()...
+2025-11-20 16:08:40 - GetTaskbarWindow() returned window ID: 593936
+2025-11-20 16:08:40 - Target window - ID: 593936 | Class: CabinetWClass | Title: C:\Users\Andrew\Documents\parasomnia | Process: explorer.exe
+2025-11-20 16:08:40 - BLOCKED: Cannot kill explorer.exe
+2025-11-20 16:08:42 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-20 16:08:42 - Active window - ID: 593936 | Title: C:\Users\Andrew\Documents\parasomnia | Class: CabinetWClass | Process: explorer.exe
+2025-11-20 16:08:42 - Mouse position: 431, 1209 | Window ID under cursor: 65838
+2025-11-20 16:08:42 - Window class under cursor: Shell_TrayWnd
+2025-11-20 16:08:42 - Confirmed on taskbar - proceeding
+2025-11-20 16:08:42 - Calling GetTaskbarWindow()...
+2025-11-20 16:08:42 - GetTaskbarWindow() returned window ID: 198986
+2025-11-20 16:08:42 - Target window - ID: 198986 | Class: EVERYTHING | Title: TaskbarClose - Everything | Process: Everything.exe
+2025-11-20 16:08:42 - Executing: taskkill /F /IM Everything.exe
+2025-11-20 16:08:42 - SUCCESS: Killed all instances of Everything.exe
+2025-11-20 16:08:42 - ========== COMPLETED ==========
+2025-11-20 16:08:42 - 
+2025-11-20 16:09:03 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-20 16:09:03 - Active window - ID: 395152 | Title: C:\Users\Andrew\Documents\parasomnia | Class: CabinetWClass | Process: explorer.exe
+2025-11-20 16:09:03 - Mouse position: -165, 1262 | Window ID under cursor: 65838
+2025-11-20 16:09:03 - Window class under cursor: Shell_TrayWnd
+2025-11-20 16:09:03 - Confirmed on taskbar - proceeding
+2025-11-20 16:09:03 - Calling GetTaskbarWindow()...
+2025-11-20 16:09:03 - GetTaskbarWindow() returned window ID: 593936
+2025-11-20 16:09:03 - Target window - ID: 593936 | Class: CabinetWClass | Title: C:\Users\Andrew\Documents\parasomnia | Process: explorer.exe
+2025-11-20 16:09:03 - BLOCKED: Cannot kill explorer.exe
+2025-11-21 12:19:20 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-21 12:19:20 - Active window - ID: 331948 | Title: Untitled - Notepad | Class: Notepad | Process: Notepad.exe
+2025-11-21 12:19:20 - Mouse position: 750, 1108 | Window ID under cursor: 65874
+2025-11-21 12:19:20 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-21 12:19:20 - Confirmed on taskbar - proceeding
+2025-11-21 12:19:20 - Calling GetTaskbarWindow()...
+2025-11-21 12:19:20 - GetTaskbarWindow() returned window ID: 265312
+2025-11-21 12:19:20 - Target window - ID: 265312 | Class: PX_WINDOW_CLASS | Title: untitled • - Sublime Text (UNREGISTERED) | Process: sublime_text.exe
+2025-11-21 12:19:20 - Executing: taskkill /F /IM sublime_text.exe
+2025-11-21 12:19:20 - SUCCESS: Killed all instances of sublime_text.exe
+2025-11-21 12:19:20 - ========== COMPLETED ==========
+2025-11-21 12:19:20 - 
+2025-11-21 12:19:24 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-21 12:19:24 - Active window - ID: 65846 | Title:  | Class: Shell_TrayWnd | Process: explorer.exe
+2025-11-21 12:19:24 - Mouse position: 5617, 23 | Window ID under cursor: 65874
+2025-11-21 12:19:24 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-21 12:19:24 - Confirmed on taskbar - proceeding
+2025-11-21 12:19:24 - Calling GetTaskbarWindow()...
+2025-11-21 12:19:24 - GetTaskbarWindow() returned window ID: 200932
+2025-11-21 12:19:24 - Target window - ID: 200932 | Class: Notepad | Title: TaskbarClose_debug.log - Notepad | Process: Notepad.exe
+2025-11-21 12:19:24 - Executing: taskkill /F /IM Notepad.exe
+2025-11-21 12:19:24 - SUCCESS: Killed all instances of Notepad.exe
+2025-11-21 12:19:24 - ========== COMPLETED ==========
+2025-11-21 12:19:24 - 
+2025-11-22 02:28:11 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 02:28:11 - Active window - ID: 1771302 | Title: Administrator: PowerShell | Class: CASCADIA_HOSTING_WINDOW_CLASS | Process: WindowsTerminal.exe
+2025-11-22 02:28:11 - Mouse position: 1635, 1403 | Window ID under cursor: 65918
+2025-11-22 02:28:11 - Window class under cursor: Shell_TrayWnd
+2025-11-22 02:28:11 - Confirmed on taskbar - proceeding
+2025-11-22 02:28:11 - Calling GetTaskbarWindow()...
+2025-11-22 02:28:11 - GetTaskbarWindow() returned window ID: 2493108
+2025-11-22 02:28:11 - Target window - ID: 2493108 | Class: CASCADIA_HOSTING_WINDOW_CLASS | Title: Administrator: PowerShell | Process: WindowsTerminal.exe
+2025-11-22 02:28:11 - Executing: taskkill /F /IM WindowsTerminal.exe
+2025-11-22 02:28:11 - SUCCESS: Killed all instances of WindowsTerminal.exe
+2025-11-22 02:28:11 - ========== COMPLETED ==========
+2025-11-22 02:28:11 - 
+2025-11-22 02:38:34 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 02:38:34 - Active window - ID: 268020 | Title: Administrator: PowerShell | Class: CASCADIA_HOSTING_WINDOW_CLASS | Process: WindowsTerminal.exe
+2025-11-22 02:38:34 - Mouse position: 1289, 985 | Window ID under cursor: 65918
+2025-11-22 02:38:34 - Window class under cursor: Shell_TrayWnd
+2025-11-22 02:38:34 - Confirmed on taskbar - proceeding
+2025-11-22 02:38:34 - Calling GetTaskbarWindow()...
+2025-11-22 02:38:34 - GetTaskbarWindow() returned window ID: 3803980
+2025-11-22 02:38:34 - Target window - ID: 3803980 | Class: Chrome_WidgetWin_1 | Title: Install .NET on Windows - .NET | Microsoft Learn and 11 more pages - Personal - Microsoft? Edge | Process: msedge.exe
+2025-11-22 02:38:34 - Executing: taskkill /F /IM msedge.exe
+2025-11-22 02:38:34 - SUCCESS: Killed all instances of msedge.exe
+2025-11-22 02:38:34 - ========== COMPLETED ==========
+2025-11-22 02:38:34 - 
+2025-11-22 02:38:38 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 02:38:38 - Active window - ID: 459180 | Title: boat.PNG | Class: WinUIDesktopWin32WindowClass | Process: Photos.exe
+2025-11-22 02:38:38 - Mouse position: -123, 1176 | Window ID under cursor: 65918
+2025-11-22 02:38:38 - Window class under cursor: Shell_TrayWnd
+2025-11-22 02:38:38 - Confirmed on taskbar - proceeding
+2025-11-22 02:38:39 - Calling GetTaskbarWindow()...
+2025-11-22 02:38:39 - GetTaskbarWindow() returned window ID: 1314020
+2025-11-22 02:38:39 - Target window - ID: 1314020 | Class: Chrome_WidgetWin_1 | Title: hotkeys.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-11-22 02:38:39 - Executing: taskkill /F /IM Code.exe
+2025-11-22 02:38:39 - SUCCESS: Killed all instances of Code.exe
+2025-11-22 02:38:39 - ========== COMPLETED ==========
+2025-11-22 02:38:39 - 
+2025-11-22 02:38:41 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 02:38:41 - Active window - ID: 459180 | Title: boat.PNG | Class: WinUIDesktopWin32WindowClass | Process: Photos.exe
+2025-11-22 02:38:41 - Mouse position: -124, 1185 | Window ID under cursor: 65918
+2025-11-22 02:38:41 - Window class under cursor: Shell_TrayWnd
+2025-11-22 02:38:41 - Confirmed on taskbar - proceeding
+2025-11-22 02:38:41 - Calling GetTaskbarWindow()...
+2025-11-22 02:38:41 - GetTaskbarWindow() returned window ID: 2100266
+2025-11-22 02:38:41 - Target window - ID: 2100266 | Class: CabinetWClass | Title: C:\Users\Andrew\Desktop\asdf | Process: explorer.exe
+2025-11-22 02:38:41 - BLOCKED: Cannot kill explorer.exe
+2025-11-22 08:13:40 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 08:13:40 - Active window - ID: 857440 | Title: Mozilla Firefox | Class: MozillaWindowClass | Process: firefox.exe
+2025-11-22 08:13:40 - Mouse position: 215, 1403 | Window ID under cursor: 65918
+2025-11-22 08:13:40 - Window class under cursor: Shell_TrayWnd
+2025-11-22 08:13:40 - Confirmed on taskbar - proceeding
+2025-11-22 08:13:40 - Calling GetTaskbarWindow()...
+2025-11-22 08:13:40 - GetTaskbarWindow() returned window ID: 2100266
+2025-11-22 08:13:40 - Target window - ID: 2100266 | Class: CabinetWClass | Title: avatars | Process: explorer.exe
+2025-11-22 08:13:40 - BLOCKED: Cannot kill explorer.exe
+2025-11-22 08:13:41 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 08:13:41 - Active window - ID: 2100266 | Title: avatars | Class: CabinetWClass | Process: explorer.exe
+2025-11-22 08:13:42 - Mouse position: 255, 1426 | Window ID under cursor: 65918
+2025-11-22 08:13:42 - Window class under cursor: Shell_TrayWnd
+2025-11-22 08:13:42 - Confirmed on taskbar - proceeding
+2025-11-22 08:13:42 - Calling GetTaskbarWindow()...
+2025-11-22 08:13:42 - GetTaskbarWindow() returned window ID: 857440
+2025-11-22 08:13:42 - Target window - ID: 857440 | Class: MozillaWindowClass | Title: Mozilla Firefox | Process: firefox.exe
+2025-11-22 08:13:42 - Executing: taskkill /F /IM firefox.exe
+2025-11-22 08:13:42 - SUCCESS: Killed all instances of firefox.exe
+2025-11-22 08:13:42 - ========== COMPLETED ==========
+2025-11-22 08:13:42 - 
+2025-11-22 08:13:47 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 08:13:47 - Active window - ID: 524852 | Title: Home - Google Drive - Personal - Microsoft? Edge | Class: Chrome_WidgetWin_1 | Process: msedge.exe
+2025-11-22 08:13:47 - Mouse position: 254, 1342 | Window ID under cursor: 65918
+2025-11-22 08:13:47 - Window class under cursor: Shell_TrayWnd
+2025-11-22 08:13:47 - Confirmed on taskbar - proceeding
+2025-11-22 08:13:47 - Calling GetTaskbarWindow()...
+2025-11-22 08:13:48 - GetTaskbarWindow() returned window ID: 1642042
+2025-11-22 08:13:48 - Target window - ID: 1642042 | Class: CabinetWClass | Title: liliana | Process: explorer.exe
+2025-11-22 08:13:48 - BLOCKED: Cannot kill explorer.exe
+2025-11-22 08:13:48 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-22 08:13:48 - Active window - ID: 1642042 | Title: liliana | Class: CabinetWClass | Process: explorer.exe
+2025-11-22 08:13:48 - Mouse position: -277, 998 | Window ID under cursor: 65918
+2025-11-22 08:13:48 - Window class under cursor: Shell_TrayWnd
+2025-11-22 08:13:48 - Confirmed on taskbar - proceeding
+2025-11-22 08:13:48 - Calling GetTaskbarWindow()...
+2025-11-22 08:13:48 - GetTaskbarWindow() returned window ID: 524852
+2025-11-22 08:13:48 - Target window - ID: 524852 | Class: Chrome_WidgetWin_1 | Title: Home - Google Drive - Personal - Microsoft? Edge | Process: msedge.exe
+2025-11-22 08:13:48 - Executing: taskkill /F /IM msedge.exe
+2025-11-22 08:13:48 - SUCCESS: Killed all instances of msedge.exe
+2025-11-22 08:13:48 - ========== COMPLETED ==========
+2025-11-22 08:13:48 - 
+2025-11-24 03:24:07 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-24 03:24:07 - Active window - ID: 6883500 | Title: C:\msys64\home\Andrew\.zshrc - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-24 03:24:07 - Mouse position: -665, 1137 | Window ID under cursor: 3934578
+2025-11-24 03:24:07 - Window class under cursor: Shell_TrayWnd
+2025-11-24 03:24:07 - Confirmed on taskbar - proceeding
+2025-11-24 03:24:07 - Calling GetTaskbarWindow()...
+2025-11-24 03:24:07 - GetTaskbarWindow() returned window ID: 2821154
+2025-11-24 03:24:07 - Target window - ID: 2821154 | Class: CASCADIA_HOSTING_WINDOW_CLASS | Title: MSYS2 | Process: WindowsTerminal.exe
+2025-11-24 03:24:07 - Executing: taskkill /F /IM WindowsTerminal.exe
+2025-11-24 03:24:07 - SUCCESS: Killed all instances of WindowsTerminal.exe
+2025-11-24 03:24:07 - ========== COMPLETED ==========
+2025-11-24 03:24:07 - 
+2025-11-24 04:43:54 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-24 04:43:54 - Active window - ID: 3146848 | Title: GitHub - catppuccin/windows-terminal: ?? Soothing pastel theme for Windows Terminal — Original profile — Mozilla Firefox | Class: MozillaWindowClass | Process: firefox.exe
+2025-11-24 04:43:54 - Mouse position: 1455, 1408 | Window ID under cursor: 3934578
+2025-11-24 04:43:54 - Window class under cursor: Shell_TrayWnd
+2025-11-24 04:43:54 - Confirmed on taskbar - proceeding
+2025-11-24 04:43:54 - Calling GetTaskbarWindow()...
+2025-11-24 04:43:54 - GetTaskbarWindow() returned window ID: 3147314
+2025-11-24 04:43:54 - Target window - ID: 3147314 | Class: CabinetWClass | Title: FiraCode.zip | Process: explorer.exe
+2025-11-24 04:43:54 - BLOCKED: Cannot kill explorer.exe
+2025-11-24 04:44:05 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-24 04:44:05 - Active window - ID: 1640996 | Title: Environment Variables | Class: #32770 | Process: SystemPropertiesAdvanced.exe
+2025-11-24 04:44:05 - Mouse position: -175, 988 | Window ID under cursor: 3934578
+2025-11-24 04:44:05 - Window class under cursor: Shell_TrayWnd
+2025-11-24 04:44:05 - Confirmed on taskbar - proceeding
+2025-11-24 04:44:05 - Calling GetTaskbarWindow()...
+2025-11-24 04:44:05 - GetTaskbarWindow() returned window ID: 4262846
+2025-11-24 04:44:05 - Target window - ID: 4262846 | Class: CabinetWClass | Title: fonts | Process: explorer.exe
+2025-11-24 04:44:05 - BLOCKED: Cannot kill explorer.exe
+2025-11-29 23:10:56 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:10:56 - Active window - ID: 4852226 | Title: New tab - Personal - Microsoft? Edge Dev | Class: Chrome_WidgetWin_1 | Process: msedge.exe
+2025-11-29 23:10:56 - Mouse position: 166, 1381 | Window ID under cursor: 197704
+2025-11-29 23:10:56 - Window class under cursor: Shell_TrayWnd
+2025-11-29 23:10:56 - Confirmed on taskbar - proceeding
+2025-11-29 23:10:56 - Calling GetTaskbarWindow()...
+2025-11-29 23:10:56 - GetTaskbarWindow() returned window ID: 3344034
+2025-11-29 23:10:56 - Target window - ID: 3344034 | Class: Chrome_WidgetWin_1 | Title: apppackage - Search - Personal - Microsoft? Edge Dev | Process: msedge.exe
+2025-11-29 23:10:56 - Executing: taskkill /F /IM msedge.exe
+2025-11-29 23:10:56 - SUCCESS: Killed all instances of msedge.exe
+2025-11-29 23:10:56 - ========== COMPLETED ==========
+2025-11-29 23:10:56 - 
+2025-11-29 23:11:25 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:11:25 - Active window - ID: 4197310 | Title: Settings | Class: ApplicationFrameWindow | Process: ApplicationFrameHost.exe
+2025-11-29 23:11:25 - Mouse position: -408, 1770 | Window ID under cursor: 263362
+2025-11-29 23:11:25 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-29 23:11:25 - Confirmed on taskbar - proceeding
+2025-11-29 23:11:25 - Calling GetTaskbarWindow()...
+2025-11-29 23:11:25 - GetTaskbarWindow() returned window ID: 3343256
+2025-11-29 23:11:25 - Target window - ID: 3343256 | Class: Notepad | Title: Untitled - Notepad | Process: Notepad.exe
+2025-11-29 23:11:25 - Executing: taskkill /F /IM Notepad.exe
+2025-11-29 23:11:25 - SUCCESS: Killed all instances of Notepad.exe
+2025-11-29 23:11:25 - ========== COMPLETED ==========
+2025-11-29 23:11:25 - 
+2025-11-29 23:11:37 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:11:37 - Active window - ID: 197024 | Title: Program Manager | Class: Progman | Process: explorer.exe
+2025-11-29 23:11:37 - Mouse position: 4444, 1778 | Window ID under cursor: 263362
+2025-11-29 23:11:37 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-29 23:11:37 - Confirmed on taskbar - proceeding
+2025-11-29 23:11:37 - Calling GetTaskbarWindow()...
+2025-11-29 23:11:37 - GetTaskbarWindow() returned window ID: 4197310
+2025-11-29 23:11:37 - Target window - ID: 4197310 | Class: ApplicationFrameWindow | Title: Settings | Process: ApplicationFrameHost.exe
+2025-11-29 23:11:37 - Executing: taskkill /F /IM ApplicationFrameHost.exe
+2025-11-29 23:11:37 - SUCCESS: Killed all instances of ApplicationFrameHost.exe
+2025-11-29 23:11:37 - ========== COMPLETED ==========
+2025-11-29 23:11:37 - 
+2025-11-29 23:11:50 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:11:50 - Active window - ID: 1051762 | Title: autorun_exitHandler(*) { • - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-29 23:11:50 - Mouse position: -216, 1379 | Window ID under cursor: 263362
+2025-11-29 23:11:50 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-29 23:11:50 - Confirmed on taskbar - proceeding
+2025-11-29 23:11:50 - Calling GetTaskbarWindow()...
+2025-11-29 23:11:51 - GetTaskbarWindow() returned window ID: 1576016
+2025-11-29 23:11:51 - Target window - ID: 1576016 | Class: Notepad | Title: Untitled - Notepad | Process: Notepad.exe
+2025-11-29 23:11:51 - Executing: taskkill /F /IM Notepad.exe
+2025-11-29 23:11:51 - SUCCESS: Killed all instances of Notepad.exe
+2025-11-29 23:11:51 - ========== COMPLETED ==========
+2025-11-29 23:11:51 - 
+2025-11-29 23:12:07 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:12:07 - Active window - ID: 1051762 | Title: autorun_exitHandler(*) { • - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-29 23:12:07 - Mouse position: -131, 1378 | Window ID under cursor: 263362
+2025-11-29 23:12:07 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-29 23:12:07 - Confirmed on taskbar - proceeding
+2025-11-29 23:12:07 - Calling GetTaskbarWindow()...
+2025-11-29 23:12:07 - GetTaskbarWindow() returned window ID: 461952
+2025-11-29 23:12:07 - Target window - ID: 461952 | Class: Notepad | Title: Untitled - Notepad | Process: Notepad.exe
+2025-11-29 23:12:07 - Executing: taskkill /F /IM Notepad.exe
+2025-11-29 23:12:07 - SUCCESS: Killed all instances of Notepad.exe
+2025-11-29 23:12:07 - ========== COMPLETED ==========
+2025-11-29 23:12:07 - 
+2025-11-29 23:12:19 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:12:19 - Active window - ID: 1051762 | Title: autorun_exitHandler(*) { • - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-29 23:12:19 - Mouse position: -149, 1379 | Window ID under cursor: 263362
+2025-11-29 23:12:19 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-29 23:12:19 - Confirmed on taskbar - proceeding
+2025-11-29 23:12:19 - Calling GetTaskbarWindow()...
+2025-11-29 23:12:19 - GetTaskbarWindow() returned window ID: 593030
+2025-11-29 23:12:19 - Target window - ID: 593030 | Class: Notepad | Title: Untitled - Notepad | Process: Notepad.exe
+2025-11-29 23:12:19 - Executing: taskkill /F /IM Notepad.exe
+2025-11-29 23:12:19 - SUCCESS: Killed all instances of Notepad.exe
+2025-11-29 23:12:19 - ========== COMPLETED ==========
+2025-11-29 23:12:19 - 
+2025-11-29 23:12:32 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:12:32 - Active window - ID: 1051762 | Title: autorun_exitHandler(*) { • - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-29 23:12:32 - Mouse position: -205, 1368 | Window ID under cursor: 263362
+2025-11-29 23:12:32 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-29 23:12:32 - Confirmed on taskbar - proceeding
+2025-11-29 23:12:32 - Calling GetTaskbarWindow()...
+2025-11-29 23:12:32 - GetTaskbarWindow() returned window ID: 263362
+2025-11-29 23:12:32 - Target window - ID: 263362 | Class: Shell_SecondaryTrayWnd | Title:  | Process: explorer.exe
+2025-11-29 23:12:32 - BLOCKED: Cannot kill explorer.exe
+2025-11-29 23:12:36 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:12:36 - Active window - ID: 1051762 | Title: autorun_exitHandler(*) { • - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-29 23:12:36 - Mouse position: 754, 622 | Window ID under cursor: 1051762
+2025-11-29 23:12:36 - Window class under cursor: PX_WINDOW_CLASS
+2025-11-29 23:12:36 - Not on taskbar - passing through hotkey
+2025-11-29 23:12:36 - ========== PASSED THROUGH ==========
+2025-11-29 23:12:36 - 
+2025-11-29 23:12:38 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-29 23:12:38 - Active window - ID: 1051762 | Title: autorun_exitHandler(*) { • - Sublime Text (UNREGISTERED) | Class: PX_WINDOW_CLASS | Process: sublime_text.exe
+2025-11-29 23:12:38 - Mouse position: 680, 415 | Window ID under cursor: 1051762
+2025-11-29 23:12:38 - Window class under cursor: PX_WINDOW_CLASS
+2025-11-29 23:12:38 - Not on taskbar - passing through hotkey
+2025-11-29 23:12:38 - ========== PASSED THROUGH ==========
+2025-11-29 23:12:38 - 
+2025-11-30 01:25:34 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-30 01:25:34 - Active window - ID: 5966478 | Title: TaskbarClose.ahk - parasomnia (Workspace) - Visual Studio Code | Class: Chrome_WidgetWin_1 | Process: Code.exe
+2025-11-30 01:25:34 - Mouse position: 4446, 1760 | Window ID under cursor: 2034608
+2025-11-30 01:25:34 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-11-30 01:25:34 - Confirmed on taskbar - proceeding
+2025-11-30 01:25:34 - Calling GetTaskbarWindow()...
+2025-11-30 01:25:34 - GetTaskbarWindow() returned window ID: 11405224
+2025-11-30 01:25:34 - Target window - ID: 11405224 | Class: PX_WINDOW_CLASS | Title: untitled • - Sublime Text (UNREGISTERED) | Process: sublime_text.exe
+2025-11-30 01:25:34 - Executing: taskkill /F /IM sublime_text.exe
+2025-11-30 01:25:34 - SUCCESS: Killed all instances of sublime_text.exe
+2025-11-30 01:25:34 - ========== COMPLETED ==========
+2025-11-30 01:25:34 - 
+2025-11-30 01:26:34 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-11-30 01:26:34 - Active window - ID: 5966478 | Title: @scripts/modules/Taskbar… - parasomnia (Workspace) - Visual Studio Code | Class: Chrome_WidgetWin_1 | Process: Code.exe
+2025-11-30 01:26:34 - Mouse position: 265, 1407 | Window ID under cursor: 1442916
+2025-11-30 01:26:34 - Window class under cursor: Shell_TrayWnd
+2025-11-30 01:26:34 - Confirmed on taskbar - proceeding
+2025-11-30 01:26:34 - Calling GetTaskbarWindow()...
+2025-11-30 01:26:34 - GetTaskbarWindow() returned window ID: 397622
+2025-11-30 01:26:34 - Target window - ID: 397622 | Class: MozillaWindowClass | Title: taskkill /f syntax - Google Search — Original profile — Mozilla Firefox | Process: firefox.exe
+2025-11-30 01:26:34 - Executing: taskkill /F /IM firefox.exe
+2025-11-30 01:26:34 - SUCCESS: Killed all instances of firefox.exe
+2025-11-30 01:26:34 - ========== COMPLETED ==========
+2025-11-30 01:26:34 - 
+2025-12-03 14:23:33 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-03 14:23:33 - Mouse position: 261, 1414 | Window ID under cursor: 131098
+2025-12-03 14:23:33 - Window class under cursor: Shell_TrayWnd
+2025-12-03 14:23:33 - Confirmed on taskbar - proceeding
+2025-12-03 14:23:33 - Before click - Active window ID: 70640 | Title:  | Process: explorer.exe
+2025-12-03 14:23:33 - Click sent, waited 100ms
+2025-12-03 14:23:33 - After click - Active window ID: 1116006 | Title: Trial version reminder | Process: RevoUninPro.exe
+2025-12-03 14:23:33 - Pre-click window minimized? NO
+2025-12-03 14:23:33 - Decision: Active window changed. Killing post-click process.
+2025-12-03 14:23:33 - Executing: taskkill /F /IM RevoUninPro.exe
+2025-12-03 14:23:33 - SUCCESS: Killed all instances of RevoUninPro.exe
+2025-12-03 14:23:33 - ========== COMPLETED ==========
+
+2025-12-03 16:55:02 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:02 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:02 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:02 - Before click - Active window ID: 1312782 | Title: Find | Process: hh.exe
+2025-12-03 16:55:02 - Click sent, waited 100ms
+2025-12-03 16:55:02 - After click - Active window ID: 393544 | Title: simpleFunctions.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-12-03 16:55:02 - Pre-click window minimized? NO
+2025-12-03 16:55:02 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:55:02 - SUCCESS: Closed window - simpleFunctions.ahk - parasomnia (Workspace) - Visual Studio Code
+2025-12-03 16:55:02 - ========== COMPLETED ==========
+
+2025-12-03 16:55:10 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:10 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:10 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:10 - Before click - Active window ID: 526984 | Title: not connected - SecureCRT | Process: SecureCRT.exe
+2025-12-03 16:55:10 - Click sent, waited 100ms
+2025-12-03 16:55:10 - After click - Active window ID: 854816 | Title: AutoHotkey v2 Help | Process: hh.exe
+2025-12-03 16:55:10 - Pre-click window minimized? NO
+2025-12-03 16:55:10 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:55:10 - SUCCESS: Closed window - AutoHotkey v2 Help
+2025-12-03 16:55:10 - ========== COMPLETED ==========
+
+2025-12-03 16:55:12 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:12 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:12 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:12 - Before click - Active window ID: 787668 | Title:  | Process: explorer.exe
+2025-12-03 16:55:12 - Click sent, waited 100ms
+2025-12-03 16:55:12 - After click - Active window ID: 526984 | Title: not connected - SecureCRT | Process: SecureCRT.exe
+2025-12-03 16:55:12 - Pre-click window minimized? NO
+2025-12-03 16:55:12 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:55:12 - SUCCESS: Closed window - not connected - SecureCRT
+2025-12-03 16:55:12 - ========== COMPLETED ==========
+
+2025-12-03 16:55:15 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:15 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:15 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:15 - Before click - Active window ID: 787668 | Title:  | Process: explorer.exe
+2025-12-03 16:55:16 - Click sent, waited 100ms
+2025-12-03 16:55:16 - After click - Active window ID: 1183836 | Title: VIA | Process: msedge.exe
+2025-12-03 16:55:16 - Pre-click window minimized? NO
+2025-12-03 16:55:16 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:55:16 - SUCCESS: Closed window - VIA
+2025-12-03 16:55:16 - ========== COMPLETED ==========
+
+2025-12-03 16:55:18 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:18 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:18 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:18 - Before click - Active window ID: 787668 | Title:  | Process: explorer.exe
+2025-12-03 16:55:18 - Click sent, waited 100ms
+2025-12-03 16:55:18 - After click - Active window ID: 70094 | Title: How to use {Blind} to ignore Shift? - Ask for Help - AutoHotkey Community — Original profile — Mozilla Firefox | Process: firefox.exe
+2025-12-03 16:55:18 - Pre-click window minimized? NO
+2025-12-03 16:55:18 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:55:18 - SUCCESS: Closed window - How to use {Blind} to ignore Shift? - Ask for Help - AutoHotkey Community — Original profile — Mozilla Firefox
+2025-12-03 16:55:18 - ========== COMPLETED ==========
+
+2025-12-03 16:55:21 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:21 - Mouse position: 261, 16 | Window ID under cursor: 787668
+2025-12-03 16:55:21 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:21 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:21 - Before click - Active window ID: 787668 | Title:  | Process: explorer.exe
+2025-12-03 16:55:21 - Click sent, waited 100ms
+2025-12-03 16:55:21 - After click - Active window ID: 853106 | Title: Send - Syntax & Usage | AutoHotkey v2 — Original profile — Mozilla Firefox | Process: firefox.exe
+2025-12-03 16:55:21 - Pre-click window minimized? NO
+2025-12-03 16:55:21 - Decision: Active window changed. Killing post-click process.
+2025-12-03 16:55:21 - Executing: taskkill /F /IM firefox.exe
+2025-12-03 16:55:21 - SUCCESS: Killed all instances of firefox.exe
+2025-12-03 16:55:21 - ========== COMPLETED ==========
+
+2025-12-03 16:55:23 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:23 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:23 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:23 - Before click - Active window ID: 787668 | Title:  | Process: explorer.exe
+2025-12-03 16:55:23 - Click sent, waited 100ms
+2025-12-03 16:55:23 - After click - Active window ID: 923458 | Title:  | Process: brave.exe
+2025-12-03 16:55:23 - Pre-click window minimized? NO
+2025-12-03 16:55:23 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:55:24 - SUCCESS: Closed window - 
+2025-12-03 16:55:24 - ========== COMPLETED ==========
+
+2025-12-03 16:55:34 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:55:34 - Window class under cursor: Shell_TrayWnd
+2025-12-03 16:55:34 - Confirmed on taskbar - proceeding
+2025-12-03 16:55:34 - Before click - Active window ID: 327912 | Title: Administrator: PowerShell | Process: WindowsTerminal.exe
+2025-12-03 16:55:35 - Click sent, waited 100ms
+2025-12-03 16:55:35 - After click - Active window ID: 2102188 | Title: simpleFunctions.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-12-03 16:55:35 - Pre-click window minimized? YES
+2025-12-03 16:55:35 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-03 16:55:35 - SUCCESS: Closed window - Administrator: PowerShell
+2025-12-03 16:55:35 - ========== COMPLETED ==========
+
+2025-12-03 16:57:14 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:57:14 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-12-03 16:57:14 - Confirmed on taskbar - proceeding
+2025-12-03 16:57:14 - Before click - Active window ID: 464346 | Title: This PC - File Explorer | Process: explorer.exe
+2025-12-03 16:57:14 - Click sent, waited 100ms
+2025-12-03 16:57:14 - After click - Active window ID: 659674 | Title: Chrome Remote Desktop - Remote Access - Chrome Remote Desktop | Process: chrome.exe
+2025-12-03 16:57:14 - Pre-click window minimized? NO
+2025-12-03 16:57:14 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:57:14 - SUCCESS: Closed window - Chrome Remote Desktop - Remote Access - Chrome Remote Desktop
+2025-12-03 16:57:14 - ========== COMPLETED ==========
+
+2025-12-03 16:57:15 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 16:57:15 - Window class under cursor: Shell_SecondaryTrayWnd
+2025-12-03 16:57:15 - Confirmed on taskbar - proceeding
+2025-12-03 16:57:15 - Before click - Active window ID: 464346 | Title: This PC - File Explorer | Process: explorer.exe
+2025-12-03 16:57:15 - Click sent, waited 100ms
+2025-12-03 16:57:15 - After click - Active window ID: 133286 | Title: TickTick | Process: TickTick.exe
+2025-12-03 16:57:15 - Pre-click window minimized? NO
+2025-12-03 16:57:15 - Decision: Active window changed. Closing post-click window.
+2025-12-03 16:57:15 - SUCCESS: Closed window - TickTick
+2025-12-03 16:57:15 - ========== COMPLETED ==========
+
+2025-12-03 17:01:17 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 17:01:17 - Window class under cursor: Shell_TrayWnd
+2025-12-03 17:01:17 - Confirmed on taskbar - proceeding
+2025-12-03 17:01:17 - Before click - Active window ID: 1377648 | Title: Microsoft 365 Copilot | Process: M365Copilot.exe
+2025-12-03 17:01:17 - Click sent, waited 100ms
+2025-12-03 17:01:17 - After click - Active window ID: 2102188 | Title: HyperBlock.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-12-03 17:01:17 - Pre-click window minimized? YES
+2025-12-03 17:01:17 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-03 17:01:17 - SUCCESS: Closed window - Microsoft 365 Copilot
+2025-12-03 17:01:17 - ========== COMPLETED ==========
+
+2025-12-03 17:03:22 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 17:03:22 - Window class under cursor: Shell_TrayWnd
+2025-12-03 17:03:22 - Confirmed on taskbar - proceeding
+2025-12-03 17:03:22 - Before click - Active window ID: 2102188 | Title: HyperBlock.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-12-03 17:03:22 - Click sent, waited 100ms
+2025-12-03 17:03:22 - After click - Active window ID: 1643824 | Title:  | Process: explorer.exe
+2025-12-03 17:03:22 - Pre-click window minimized? NO
+2025-12-03 17:03:22 - Decision: Active window changed. Closing post-click window.
+2025-12-03 17:03:22 - BLOCKED: Cannot close explorer.exe
+2025-12-03 17:03:22 - ========== COMPLETED ==========
+
+2025-12-03 17:03:24 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 17:03:24 - Window class under cursor: Shell_TrayWnd
+2025-12-03 17:03:24 - Confirmed on taskbar - proceeding
+2025-12-03 17:03:24 - Before click - Active window ID: 1643824 | Title:  | Process: explorer.exe
+2025-12-03 17:03:24 - Click sent, waited 100ms
+2025-12-03 17:03:24 - After click - Active window ID: 1643824 | Title:  | Process: explorer.exe
+2025-12-03 17:03:24 - Pre-click window minimized? NO
+2025-12-03 17:03:24 - Decision: No meaningful window state change detected.
+2025-12-03 17:03:24 - ========== COMPLETED ==========
+
+2025-12-03 17:12:46 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-03 17:12:46 - Window class under cursor: Shell_TrayWnd
+2025-12-03 17:12:46 - Confirmed on taskbar - proceeding
+2025-12-03 17:12:46 - Before click - Active window ID: 2102188 | Title: HyperBlock.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-12-03 17:12:47 - Click sent, waited 100ms
+2025-12-03 17:12:47 - After click - Active window ID: 989014 | Title: Microsoft 365 Copilot | Process: M365Copilot.exe
+2025-12-03 17:12:47 - Pre-click window minimized? NO
+2025-12-03 17:12:47 - Decision: Active window changed. Closing post-click window.
+2025-12-03 17:12:47 - SUCCESS: Closed window - Microsoft 365 Copilot
+2025-12-03 17:12:47 - ========== COMPLETED ==========
+
+2025-12-05 14:42:13 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-05 14:42:13 - Mouse position: 199, 1267 | Window ID under cursor: 592350
+2025-12-05 14:42:13 - Window class under cursor: Shell_TrayWnd
+2025-12-05 14:42:13 - Confirmed on taskbar - proceeding
+2025-12-05 14:42:13 - Before click - Active window ID: 70558 | Title: Book4 - Excel | Process: EXCEL.EXE
+2025-12-05 14:42:13 - Click sent, waited 100ms
+2025-12-05 14:42:13 - After click - Active window ID: 70356 | Title: Book2 - Excel | Process: EXCEL.EXE
+2025-12-05 14:42:13 - Pre-click window minimized? NO
+2025-12-05 14:42:13 - Decision: Active window changed. Killing post-click process.
+2025-12-05 14:42:13 - Executing: taskkill /F /IM EXCEL.EXE
+2025-12-05 14:42:13 - SUCCESS: Killed all instances of EXCEL.EXE
+2025-12-05 14:42:13 - ========== COMPLETED ==========
+
+2025-12-05 14:42:52 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 14:42:52 - Window class under cursor: Shell_TrayWnd
+2025-12-05 14:42:52 - Confirmed on taskbar - proceeding
+2025-12-05 14:42:52 - Before click - Active window ID: 592350 | Title:  | Process: explorer.exe
+2025-12-05 14:42:52 - Click sent, waited 100ms
+2025-12-05 14:42:52 - After click - Active window ID: 528938 | Title: This PC | Process: explorer.exe
+2025-12-05 14:42:52 - Pre-click window minimized? NO
+2025-12-05 14:42:52 - Decision: Active window changed. Closing post-click window.
+2025-12-05 14:42:52 - BLOCKED: Cannot close explorer.exe
+2025-12-05 14:42:52 - ========== COMPLETED ==========
+
+2025-12-05 14:42:55 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 14:42:55 - Window class under cursor: Shell_TrayWnd
+2025-12-05 14:42:55 - Confirmed on taskbar - proceeding
+2025-12-05 14:42:55 - Before click - Active window ID: 4786544 | Title: geekwisdom - Everything | Process: Everything.exe
+2025-12-05 14:42:55 - Click sent, waited 100ms
+2025-12-05 14:42:55 - After click - Active window ID: 659766 | Title: Windhawk | Process: VSCodium.exe
+2025-12-05 14:42:55 - Pre-click window minimized? YES
+2025-12-05 14:42:55 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-05 14:42:55 - SUCCESS: Closed window - geekwisdom - Everything
+2025-12-05 14:42:55 - ========== COMPLETED ==========
+
+2025-12-05 14:43:02 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 14:43:02 - Window class under cursor: Shell_TrayWnd
+2025-12-05 14:43:02 - Confirmed on taskbar - proceeding
+2025-12-05 14:43:02 - Before click - Active window ID: 1576838 | Title: Internet Download Manager 6.42 | Process: IDMan.exe
+2025-12-05 14:43:02 - Click sent, waited 100ms
+2025-12-05 14:43:02 - After click - Active window ID: 5705682 | Title: I am continuing to work on a project to find the m - geekwisdom - Obsidian v1.10.6 | Process: Obsidian.exe
+2025-12-05 14:43:02 - Pre-click window minimized? NO
+2025-12-05 14:43:02 - Decision: Active window changed. Closing post-click window.
+2025-12-05 14:43:03 - SUCCESS: Closed window - I am continuing to work on a project to find the m - geekwisdom - Obsidian v1.10.6
+2025-12-05 14:43:03 - ========== COMPLETED ==========
+
+2025-12-05 15:01:31 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 15:01:31 - Window class under cursor: Shell_TrayWnd
+2025-12-05 15:01:31 - Confirmed on taskbar - proceeding
+2025-12-05 15:01:31 - Before click - Active window ID: 1052618 | Title: (Z:) RAID | Process: explorer.exe
+2025-12-05 15:01:31 - Click sent, waited 100ms
+2025-12-05 15:01:31 - After click - Active window ID: 1510444 | Title: 172.24.248.56 - SecureCRT | Process: SecureCRT.exe
+2025-12-05 15:01:31 - Pre-click window minimized? YES
+2025-12-05 15:01:31 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-05 15:01:31 - BLOCKED: Cannot close explorer.exe
+2025-12-05 15:01:31 - ========== COMPLETED ==========
+
+2025-12-05 15:01:32 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 15:01:32 - Window class under cursor: Shell_TrayWnd
+2025-12-05 15:01:32 - Confirmed on taskbar - proceeding
+2025-12-05 15:01:32 - Before click - Active window ID: 1510444 | Title: 172.24.248.56 - SecureCRT | Process: SecureCRT.exe
+2025-12-05 15:01:32 - Click sent, waited 100ms
+2025-12-05 15:01:32 - After click - Active window ID: 1052618 | Title: (Z:) RAID | Process: explorer.exe
+2025-12-05 15:01:32 - Pre-click window minimized? NO
+2025-12-05 15:01:32 - Decision: Active window changed. Closing post-click window.
+2025-12-05 15:01:32 - BLOCKED: Cannot close explorer.exe
+2025-12-05 15:01:32 - ========== COMPLETED ==========
+
+2025-12-05 15:01:35 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 15:01:35 - Window class under cursor: Shell_TrayWnd
+2025-12-05 15:01:35 - Confirmed on taskbar - proceeding
+2025-12-05 15:01:35 - Before click - Active window ID: 1052618 | Title: (Z:) RAID | Process: explorer.exe
+2025-12-05 15:01:35 - Click sent, waited 100ms
+2025-12-05 15:01:35 - After click - Active window ID: 1510444 | Title: 172.24.248.56 - SecureCRT | Process: SecureCRT.exe
+2025-12-05 15:01:35 - Pre-click window minimized? YES
+2025-12-05 15:01:35 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-05 15:01:35 - BLOCKED: Cannot close explorer.exe
+2025-12-05 15:01:35 - ========== COMPLETED ==========
+
+2025-12-05 15:01:42 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 15:01:42 - Window class under cursor: Shell_TrayWnd
+2025-12-05 15:01:42 - Confirmed on taskbar - proceeding
+2025-12-05 15:01:42 - Before click - Active window ID: 1052618 | Title: (Z:) RAID | Process: explorer.exe
+2025-12-05 15:01:42 - Click sent, waited 100ms
+2025-12-05 15:01:42 - After click - Active window ID: 659766 | Title: Windhawk | Process: VSCodium.exe
+2025-12-05 15:01:42 - Pre-click window minimized? YES
+2025-12-05 15:01:42 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-05 15:01:42 - BLOCKED: Cannot close explorer.exe
+2025-12-05 15:01:42 - ========== COMPLETED ==========
+
+2025-12-05 15:01:49 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-05 15:01:49 - Mouse position: 496, 1412 | Window ID under cursor: 592350
+2025-12-05 15:01:49 - Window class under cursor: Shell_TrayWnd
+2025-12-05 15:01:49 - Confirmed on taskbar - proceeding
+2025-12-05 15:01:49 - Before click - Active window ID: 1052618 | Title: (Z:) RAID | Process: explorer.exe
+2025-12-05 15:01:49 - Click sent, waited 100ms
+2025-12-05 15:01:49 - After click - Active window ID: 920336 | Title: EaseUS Partition Master | Process: EPMUI.exe
+2025-12-05 15:01:49 - Pre-click window minimized? YES
+2025-12-05 15:01:49 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-05 15:01:49 - BLOCKED: Cannot kill explorer.exe
+2025-12-05 15:01:50 - ========== COMPLETED ==========
+
+2025-12-05 15:01:58 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 15:01:58 - Window class under cursor: Shell_TrayWnd
+2025-12-05 15:01:58 - Confirmed on taskbar - proceeding
+2025-12-05 15:01:58 - Before click - Active window ID: 397806 | Title: Original profile — Mozilla Firefox | Process: firefox.exe
+2025-12-05 15:01:58 - Click sent, waited 100ms
+2025-12-05 15:01:58 - After click - Active window ID: 920336 | Title: EaseUS Partition Master | Process: EPMUI.exe
+2025-12-05 15:01:58 - Pre-click window minimized? YES
+2025-12-05 15:01:58 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-05 15:01:59 - SUCCESS: Closed window - Original profile — Mozilla Firefox
+2025-12-05 15:01:59 - ========== COMPLETED ==========
+
+2025-12-05 17:11:07 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 17:11:07 - Window class under cursor: Shell_TrayWnd
+2025-12-05 17:11:07 - Confirmed on taskbar - proceeding
+2025-12-05 17:11:07 - Before click - Active window ID: 330794 | Title: Program Manager | Process: explorer.exe
+2025-12-05 17:11:07 - Click sent, waited 100ms
+2025-12-05 17:11:07 - After click - Active window ID: 1510444 | Title: 172.24.248.56 - SecureCRT | Process: SecureCRT.exe
+2025-12-05 17:11:07 - Pre-click window minimized? NO
+2025-12-05 17:11:07 - Decision: Active window changed. Closing post-click window.
+2025-12-05 17:11:07 - SUCCESS: Closed window - 172.24.248.56 - SecureCRT
+2025-12-05 17:11:07 - ========== COMPLETED ==========
+
+2025-12-05 17:11:07 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 17:11:07 - Window class under cursor: Shell_TrayWnd
+2025-12-05 17:11:07 - Confirmed on taskbar - proceeding
+2025-12-05 17:11:07 - Before click - Active window ID: 2626414 | Title: SecureCRT | Process: SecureCRT.exe
+2025-12-05 17:11:07 - Click sent, waited 100ms
+2025-12-05 17:11:07 - After click - Active window ID: 331368 | Title: Chrome Remote Desktop - LT5763 | Process: chrome.exe
+2025-12-05 17:11:07 - Pre-click window minimized? NO
+2025-12-05 17:11:07 - Decision: Active window changed. Closing post-click window.
+2025-12-05 17:11:08 - SUCCESS: Closed window - Chrome Remote Desktop - LT5763
+2025-12-05 17:11:08 - ========== COMPLETED ==========
+
+2025-12-05 17:11:08 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 17:11:08 - Window class under cursor: Shell_TrayWnd
+2025-12-05 17:11:08 - Confirmed on taskbar - proceeding
+2025-12-05 17:11:08 - Before click - Active window ID: 592350 | Title:  | Process: explorer.exe
+2025-12-05 17:11:09 - Click sent, waited 100ms
+2025-12-05 17:11:09 - After click - Active window ID: 2626414 | Title: SecureCRT | Process: SecureCRT.exe
+2025-12-05 17:11:09 - Pre-click window minimized? NO
+2025-12-05 17:11:09 - Decision: Active window changed. Closing post-click window.
+2025-12-05 17:11:09 - SUCCESS: Closed window - SecureCRT
+2025-12-05 17:11:09 - ========== COMPLETED ==========
+
+2025-12-05 17:11:09 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 17:11:09 - Window class under cursor: Shell_TrayWnd
+2025-12-05 17:11:09 - Confirmed on taskbar - proceeding
+2025-12-05 17:11:09 - Before click - Active window ID: 2626414 | Title: SecureCRT | Process: SecureCRT.exe
+2025-12-05 17:11:09 - Click sent, waited 100ms
+2025-12-05 17:11:09 - After click - Active window ID: 2626414 | Title: SecureCRT | Process: SecureCRT.exe
+2025-12-05 17:11:09 - Pre-click window minimized? NO
+2025-12-05 17:11:09 - Decision: No meaningful window state change detected.
+2025-12-05 17:11:09 - ========== COMPLETED ==========
+
+2025-12-05 17:11:12 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-05 17:11:12 - Window class under cursor: Shell_TrayWnd
+2025-12-05 17:11:12 - Confirmed on taskbar - proceeding
+2025-12-05 17:11:12 - Before click - Active window ID: 1510444 | Title: 172.24.248.56 - SecureCRT | Process: SecureCRT.exe
+2025-12-05 17:11:12 - Click sent, waited 100ms
+2025-12-05 17:11:12 - After click - Active window ID: 592350 | Title:  | Process: explorer.exe
+2025-12-05 17:11:12 - Pre-click window minimized? YES
+2025-12-05 17:11:12 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-05 17:11:12 - SUCCESS: Closed window - 172.24.248.56 - SecureCRT
+2025-12-05 17:11:12 - ========== COMPLETED ==========
+
+2025-12-06 05:06:59 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 05:06:59 - Mouse position: 1476, 1882 | Window ID under cursor: 1312734
+2025-12-06 05:06:59 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:06:59 - Confirmed on taskbar - proceeding
+2025-12-06 05:06:59 - Before click - Active window ID: 2032738 | Title: Program Manager | Process: explorer.exe
+2025-12-06 05:06:59 - Click sent, waited 100ms
+2025-12-06 05:06:59 - After click - Active window ID: 1838236 | Title: This PC | Process: explorer.exe
+2025-12-06 05:06:59 - Pre-click window minimized? NO
+2025-12-06 05:06:59 - Decision: Active window changed. Killing post-click process.
+2025-12-06 05:06:59 - BLOCKED: Cannot kill explorer.exe
+2025-12-06 05:06:59 - ========== COMPLETED ==========
+
+2025-12-06 05:07:02 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 05:07:02 - Mouse position: 342, 1410 | Window ID under cursor: 1312734
+2025-12-06 05:07:02 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:07:02 - Confirmed on taskbar - proceeding
+2025-12-06 05:07:02 - Before click - Active window ID: 1838236 | Title: This PC | Process: explorer.exe
+2025-12-06 05:07:02 - Click sent, waited 100ms
+2025-12-06 05:07:02 - After click - Active window ID: 1181718 | Title: Downloads | Process: explorer.exe
+2025-12-06 05:07:02 - Pre-click window minimized? NO
+2025-12-06 05:07:02 - Decision: Active window changed. Killing post-click process.
+2025-12-06 05:07:02 - BLOCKED: Cannot kill explorer.exe
+2025-12-06 05:07:02 - ========== COMPLETED ==========
+
+2025-12-06 05:09:27 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 05:09:27 - Mouse position: 372, 1401 | Window ID under cursor: 1312734
+2025-12-06 05:09:27 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:09:27 - Confirmed on taskbar - proceeding
+2025-12-06 05:09:27 - Before click - Active window ID: 1838236 | Title: This PC | Process: explorer.exe
+2025-12-06 05:09:27 - Click sent, waited 100ms
+2025-12-06 05:09:27 - After click - Active window ID: 1312734 | Title:  | Process: explorer.exe
+2025-12-06 05:09:27 - Pre-click window minimized? YES
+2025-12-06 05:09:27 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-06 05:09:27 - BLOCKED: Cannot kill explorer.exe
+2025-12-06 05:09:27 - ========== COMPLETED ==========
+
+2025-12-06 05:10:00 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:00 - Mouse position: -105, 1351 | Window ID under cursor: 1312734
+2025-12-06 05:10:00 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:00 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:00 - Before click - Active window ID: 1051668 | Title: forcekill.ahk - parasomnia (Workspace) - Visual Studio Code | Process: Code.exe
+2025-12-06 05:10:00 - Click sent, waited 100ms
+2025-12-06 05:10:00 - After click - Active window ID: 1838236 | Title: This PC | Process: explorer.exe
+2025-12-06 05:10:00 - Pre-click window minimized? NO
+2025-12-06 05:10:00 - Decision: Active window changed. Killing post-click process.
+2025-12-06 05:10:00 - BLOCKED: Cannot kill explorer.exe
+2025-12-06 05:10:00 - ========== COMPLETED ==========
+
+2025-12-06 05:10:03 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:03 - Mouse position: 344, 22 | Window ID under cursor: 1312734
+2025-12-06 05:10:03 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:03 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:03 - Before click - Active window ID: 1312734 | Title:  | Process: explorer.exe
+2025-12-06 05:10:03 - Click sent, waited 100ms
+2025-12-06 05:10:03 - After click - Active window ID: 1181718 | Title: Downloads | Process: explorer.exe
+2025-12-06 05:10:03 - Pre-click window minimized? NO
+2025-12-06 05:10:03 - Decision: Active window changed. Killing post-click process.
+2025-12-06 05:10:03 - BLOCKED: Cannot kill explorer.exe
+2025-12-06 05:10:03 - ========== COMPLETED ==========
+
+2025-12-06 05:10:49 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:49 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:49 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:49 - Before click - Active window ID: 3607964 | Title: Amazon.com : 9100 pro and 1 more page - Personal - Microsoft? Edge Dev | Process: msedge.exe
+2025-12-06 05:10:49 - Click sent, waited 100ms
+2025-12-06 05:10:49 - After click - Active window ID: 590068 | Title: DiskGenius V6.1.1.1742 x64  | Process: DiskGenius.exe
+2025-12-06 05:10:49 - Pre-click window minimized? NO
+2025-12-06 05:10:49 - Decision: Active window changed. Closing post-click window.
+2025-12-06 05:10:49 - SUCCESS: Closed window - DiskGenius V6.1.1.1742 x64 
+2025-12-06 05:10:49 - ========== COMPLETED ==========
+
+2025-12-06 05:10:52 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:52 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:52 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:52 - Before click - Active window ID: 3607964 | Title: Amazon.com : 9100 pro and 1 more page - Personal - Microsoft? Edge Dev | Process: msedge.exe
+2025-12-06 05:10:52 - Click sent, waited 100ms
+2025-12-06 05:10:52 - After click - Active window ID: 2559888 | Title: Claude | Process: claude.exe
+2025-12-06 05:10:52 - Pre-click window minimized? NO
+2025-12-06 05:10:52 - Decision: Active window changed. Closing post-click window.
+2025-12-06 05:10:52 - SUCCESS: Closed window - Claude
+2025-12-06 05:10:52 - ========== COMPLETED ==========
+
+2025-12-06 05:10:53 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:53 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:53 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:53 - Before click - Active window ID: 2559888 | Title: Claude | Process: claude.exe
+2025-12-06 05:10:53 - Click sent, waited 100ms
+2025-12-06 05:10:53 - After click - Active window ID: 14225498 | Title: Administrator: PowerShell | Process: WindowsTerminal.exe
+2025-12-06 05:10:53 - Pre-click window minimized? NO
+2025-12-06 05:10:53 - Decision: Active window changed. Closing post-click window.
+2025-12-06 05:10:53 - SUCCESS: Closed window - Administrator: PowerShell
+2025-12-06 05:10:53 - ========== COMPLETED ==========
+
+2025-12-06 05:10:55 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:55 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:55 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:55 - Before click - Active window ID: 3607964 | Title: Amazon.com : 9100 pro and 1 more page - Personal - Microsoft? Edge Dev | Process: msedge.exe
+2025-12-06 05:10:55 - Click sent, waited 100ms
+2025-12-06 05:10:55 - After click - Active window ID: 262610 | Title: Google Gemini - Google Chrome | Process: chrome.exe
+2025-12-06 05:10:55 - Pre-click window minimized? NO
+2025-12-06 05:10:55 - Decision: Active window changed. Closing post-click window.
+2025-12-06 05:10:55 - SUCCESS: Closed window - Google Gemini - Google Chrome
+2025-12-06 05:10:55 - ========== COMPLETED ==========
+
+2025-12-06 05:10:57 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 05:10:57 - Window class under cursor: Shell_TrayWnd
+2025-12-06 05:10:57 - Confirmed on taskbar - proceeding
+2025-12-06 05:10:57 - Before click - Active window ID: 3607964 | Title: Amazon.com : 9100 pro and 1 more page - Personal - Microsoft? Edge Dev | Process: msedge.exe
+2025-12-06 05:10:57 - Click sent, waited 100ms
+2025-12-06 05:10:57 - After click - Active window ID: 1510928 | Title: untitled • - Sublime Text (UNREGISTERED) | Process: sublime_text.exe
+2025-12-06 05:10:57 - Pre-click window minimized? NO
+2025-12-06 05:10:57 - Decision: Active window changed. Closing post-click window.
+2025-12-06 05:10:57 - SUCCESS: Closed window - untitled • - Sublime Text (UNREGISTERED)
+2025-12-06 05:10:57 - ========== COMPLETED ==========
+
+2025-12-06 06:12:13 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:13 - Mouse position: 593, 1398 | Window ID under cursor: 396706
+2025-12-06 06:12:13 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:13 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:13 - Before click - Active window ID: 5308946 | Title: Original profile — Mozilla Firefox | Process: firefox.exe
+2025-12-06 06:12:13 - Click sent, waited 100ms
+2025-12-06 06:12:13 - After click - Active window ID: 2033928 | Title: Computer Management | Process: mmc.exe
+2025-12-06 06:12:13 - Pre-click window minimized? YES
+2025-12-06 06:12:13 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-06 06:12:13 - Executing: taskkill /F /IM firefox.exe
+2025-12-06 06:12:13 - SUCCESS: Killed all instances of firefox.exe
+2025-12-06 06:12:13 - ========== COMPLETED ==========
+
+2025-12-06 06:12:13 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:13 - Mouse position: 520, 1346 | Window ID under cursor: 396706
+2025-12-06 06:12:13 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:13 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:13 - Before click - Active window ID: 2033928 | Title: Computer Management | Process: mmc.exe
+2025-12-06 06:12:13 - Click sent, waited 100ms
+2025-12-06 06:12:14 - After click - Active window ID: 1381058 | Title: Echoes Plus - Brave | Process: brave.exe
+2025-12-06 06:12:14 - Pre-click window minimized? NO
+2025-12-06 06:12:14 - Decision: Active window changed. Killing post-click process.
+2025-12-06 06:12:14 - Executing: taskkill /F /IM brave.exe
+2025-12-06 06:12:14 - SUCCESS: Killed all instances of brave.exe
+2025-12-06 06:12:14 - ========== COMPLETED ==========
+
+2025-12-06 06:12:14 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:14 - Mouse position: 422, 1355 | Window ID under cursor: 396706
+2025-12-06 06:12:14 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:14 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:14 - Before click - Active window ID: 2033928 | Title: Computer Management | Process: mmc.exe
+2025-12-06 06:12:14 - Click sent, waited 100ms
+2025-12-06 06:12:14 - After click - Active window ID: 1577152 | Title: GitHub - gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. - Google Chrome | Process: chrome.exe
+2025-12-06 06:12:14 - Pre-click window minimized? NO
+2025-12-06 06:12:14 - Decision: Active window changed. Killing post-click process.
+2025-12-06 06:12:14 - Executing: taskkill /F /IM chrome.exe
+2025-12-06 06:12:14 - SUCCESS: Killed all instances of chrome.exe
+2025-12-06 06:12:14 - ========== COMPLETED ==========
+
+2025-12-06 06:12:15 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:15 - Mouse position: 474, 26 | Window ID under cursor: 396706
+2025-12-06 06:12:15 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:15 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:15 - Before click - Active window ID: 396706 | Title:  | Process: explorer.exe
+2025-12-06 06:12:15 - Click sent, waited 100ms
+2025-12-06 06:12:15 - After click - Active window ID: 396706 | Title:  | Process: explorer.exe
+2025-12-06 06:12:15 - Pre-click window minimized? NO
+2025-12-06 06:12:15 - Decision: No meaningful window state change detected.
+2025-12-06 06:12:15 - ========== COMPLETED ==========
+
+2025-12-06 06:12:15 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:15 - Mouse position: 390, 31 | Window ID under cursor: 396706
+2025-12-06 06:12:15 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:15 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:15 - Before click - Active window ID: 396706 | Title:  | Process: explorer.exe
+2025-12-06 06:12:15 - Click sent, waited 100ms
+2025-12-06 06:12:15 - After click - Active window ID: 791032 | Title: DiskGenius V6.1.1.1742 x64  | Process: DiskGenius.exe
+2025-12-06 06:12:15 - Pre-click window minimized? NO
+2025-12-06 06:12:15 - Decision: Active window changed. Killing post-click process.
+2025-12-06 06:12:15 - Executing: taskkill /F /IM DiskGenius.exe
+2025-12-06 06:12:15 - SUCCESS: Killed all instances of DiskGenius.exe
+2025-12-06 06:12:15 - ========== COMPLETED ==========
+
+2025-12-06 06:12:17 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:17 - Mouse position: 308, 1341 | Window ID under cursor: 396706
+2025-12-06 06:12:17 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:17 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:17 - Before click - Active window ID: 1771510 | Title: Computer Management | Process: mmc.exe
+2025-12-06 06:12:17 - Click sent, waited 100ms
+2025-12-06 06:12:17 - After click - Active window ID: 2033928 | Title: Computer Management | Process: mmc.exe
+2025-12-06 06:12:17 - Pre-click window minimized? YES
+2025-12-06 06:12:17 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-06 06:12:17 - Executing: taskkill /F /IM mmc.exe
+2025-12-06 06:12:17 - SUCCESS: Killed all instances of mmc.exe
+2025-12-06 06:12:17 - ========== COMPLETED ==========
+
+2025-12-06 06:12:18 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:18 - Mouse position: 1282, 1880 | Window ID under cursor: 396706
+2025-12-06 06:12:18 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:18 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:18 - Before click - Active window ID: 786766 | Title: Program Manager | Process: explorer.exe
+2025-12-06 06:12:18 - Click sent, waited 100ms
+2025-12-06 06:12:18 - After click - Active window ID: 3541876 | Title: Oracle VirtualBox Manager | Process: VirtualBox.exe
+2025-12-06 06:12:18 - Pre-click window minimized? NO
+2025-12-06 06:12:18 - Decision: Active window changed. Killing post-click process.
+2025-12-06 06:12:18 - Executing: taskkill /F /IM VirtualBox.exe
+2025-12-06 06:12:18 - SUCCESS: Killed all instances of VirtualBox.exe
+2025-12-06 06:12:18 - ========== COMPLETED ==========
+
+2025-12-06 06:12:22 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:22 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:22 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:22 - Before click - Active window ID: 1249826 | Title: Jump List for File Explorer | Process: ShellExperienceHost.exe
+2025-12-06 06:12:23 - Click sent, waited 100ms
+2025-12-06 06:12:23 - After click - Active window ID: 396706 | Title:  | Process: explorer.exe
+2025-12-06 06:12:23 - Pre-click window minimized? NO
+2025-12-06 06:12:23 - Decision: Active window changed. Closing post-click window.
+2025-12-06 06:12:23 - BLOCKED: Cannot close explorer.exe
+2025-12-06 06:12:23 - ========== COMPLETED ==========
+
+2025-12-06 06:12:23 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:23 - Window class under cursor: Shell_TrayWnd
+2025-12-06 06:12:23 - Confirmed on taskbar - proceeding
+2025-12-06 06:12:23 - Before click - Active window ID: 396706 | Title:  | Process: explorer.exe
+2025-12-06 06:12:23 - Click sent, waited 100ms
+2025-12-06 06:12:23 - After click - Active window ID: 659938 | Title: This PC | Process: explorer.exe
+2025-12-06 06:12:23 - Pre-click window minimized? NO
+2025-12-06 06:12:23 - Decision: Active window changed. Closing post-click window.
+2025-12-06 06:12:23 - BLOCKED: Cannot close explorer.exe
+2025-12-06 06:12:23 - ========== COMPLETED ==========
+
+2025-12-06 06:12:29 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-06 06:12:29 - Window class under cursor: CabinetWClass
+2025-12-06 06:12:29 - Not on taskbar - passing through hotkey
+2025-12-06 06:12:29 - ========== PASSED THROUGH ==========
+
+2025-12-07 09:41:45 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-07 09:41:45 - Mouse position: 1476, 830 | Window ID under cursor: 2752846
+2025-12-07 09:41:45 - Window class under cursor: XamlExplorerHostIslandWindow
+2025-12-07 09:41:45 - Not on taskbar - passing through hotkey
+2025-12-07 09:41:45 - ========== PASSED THROUGH ==========
+
+2025-12-07 17:34:40 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-07 17:34:40 - Mouse position: -366, 1150 | Window ID under cursor: 197862
+2025-12-07 17:34:40 - Window class under cursor: Shell_TrayWnd
+2025-12-07 17:34:40 - Confirmed on taskbar - proceeding
+2025-12-07 17:34:40 - Before click - Active window ID: 1116242 | Title: ReadMe.txt - Notepad | Process: Notepad.exe
+2025-12-07 17:34:40 - Click sent, waited 100ms
+2025-12-07 17:34:40 - After click - Active window ID: 198172 | Title: nexus | Process: explorer.exe
+2025-12-07 17:34:40 - Pre-click window minimized? NO
+2025-12-07 17:34:40 - Decision: Active window changed. Killing post-click process.
+2025-12-07 17:34:40 - BLOCKED: Cannot kill explorer.exe
+2025-12-07 17:34:40 - ========== COMPLETED ==========
+
+2025-12-07 17:34:41 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-07 17:34:41 - Mouse position: 843, 624 | Window ID under cursor: 198172
+2025-12-07 17:34:41 - Window class under cursor: CabinetWClass
+2025-12-07 17:34:41 - Not on taskbar - passing through hotkey
+2025-12-07 17:34:41 - ========== PASSED THROUGH ==========
+
+2025-12-07 17:34:43 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-07 17:34:43 - Window class under cursor: CabinetWClass
+2025-12-07 17:34:43 - Not on taskbar - passing through hotkey
+2025-12-07 17:34:43 - ========== PASSED THROUGH ==========
+
+2025-12-07 17:34:45 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-07 17:34:45 - Mouse position: 888, 367 | Window ID under cursor: 198172
+2025-12-07 17:34:45 - Window class under cursor: CabinetWClass
+2025-12-07 17:34:45 - Not on taskbar - passing through hotkey
+2025-12-07 17:34:45 - ========== PASSED THROUGH ==========
+
+2025-12-07 17:34:53 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-07 17:34:53 - Mouse position: 804, 391 | Window ID under cursor: 1116242
+2025-12-07 17:34:53 - Window class under cursor: Notepad
+2025-12-07 17:34:53 - Not on taskbar - passing through hotkey
+2025-12-07 17:34:53 - ========== PASSED THROUGH ==========
+
+2025-12-18 16:13:32 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-18 16:13:32 - Mouse position: 1072, 1424 | Window ID under cursor: 262588
+2025-12-18 16:13:33 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:13:33 - Confirmed on taskbar - proceeding
+2025-12-18 16:13:33 - Before click - Active window ID: 1313214 | Title: icons | Process: explorer.exe
+2025-12-18 16:13:33 - Click sent, waited 100ms
+2025-12-18 16:13:33 - After click - Active window ID: 6228938 | Title: 6% complete | Process: explorer.exe
+2025-12-18 16:13:33 - Pre-click window minimized? YES
+2025-12-18 16:13:33 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-18 16:13:33 - BLOCKED: Cannot kill explorer.exe
+2025-12-18 16:13:33 - ========== COMPLETED ==========
+
+2025-12-18 16:13:37 - ========== CTRL+MBUTTON TRIGGERED ==========
+2025-12-18 16:13:37 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:13:37 - Confirmed on taskbar - proceeding
+2025-12-18 16:13:37 - Before click - Active window ID: 1313214 | Title: icons | Process: explorer.exe
+2025-12-18 16:13:37 - Click sent, waited 100ms
+2025-12-18 16:13:37 - After click - Active window ID: 6228938 | Title: 10% complete | Process: explorer.exe
+2025-12-18 16:13:37 - Pre-click window minimized? YES
+2025-12-18 16:13:37 - Decision: Clicked window minimized it. Closing pre-click window.
+2025-12-18 16:13:37 - BLOCKED: Cannot close explorer.exe
+2025-12-18 16:13:37 - ========== COMPLETED ==========
+
+2025-12-18 16:18:17 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-18 16:18:17 - Mouse position: 2105, 1398 | Window ID under cursor: 262588
+2025-12-18 16:18:17 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:18:17 - Confirmed on taskbar - proceeding
+2025-12-18 16:18:17 - Before click - Active window ID: 1839262 | Title: Sign in - Microsoft OneDrive and 1 more page - Personal - Microsoft? Edge Dev | Process: msedge.exe
+2025-12-18 16:18:18 - Click sent, waited 100ms
+2025-12-18 16:18:18 - After click - Active window ID: 527626 | Title: terrellj@jumpserver:~ - SecureCRT | Process: SecureCRT.exe
+2025-12-18 16:18:18 - Pre-click window minimized? YES
+2025-12-18 16:18:18 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-18 16:18:18 - Executing: taskkill /F /IM msedge.exe
+2025-12-18 16:18:18 - SUCCESS: Killed all instances of msedge.exe
+2025-12-18 16:18:18 - ========== COMPLETED ==========
+
+2025-12-18 16:18:22 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-18 16:18:22 - Mouse position: -339, 1253 | Window ID under cursor: 262588
+2025-12-18 16:18:22 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:18:22 - Confirmed on taskbar - proceeding
+2025-12-18 16:18:22 - Before click - Active window ID: 5048528 | Title: Andrew (C:\Users\Andrew) - File Pilot v0.6.3 | Process: FPilot.exe
+2025-12-18 16:18:22 - Click sent, waited 100ms
+2025-12-18 16:18:22 - After click - Active window ID: 527626 | Title: terrellj@jumpserver:~ - SecureCRT | Process: SecureCRT.exe
+2025-12-18 16:18:22 - Pre-click window minimized? YES
+2025-12-18 16:18:22 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-18 16:18:22 - Executing: taskkill /F /IM FPilot.exe
+2025-12-18 16:18:22 - SUCCESS: Killed all instances of FPilot.exe
+2025-12-18 16:18:22 - ========== COMPLETED ==========
+
+2025-12-18 16:18:54 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-18 16:18:54 - Mouse position: 1383, 1400 | Window ID under cursor: 262588
+2025-12-18 16:18:54 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:18:54 - Confirmed on taskbar - proceeding
+2025-12-18 16:18:54 - Before click - Active window ID: 1969178 | Title: Windows_11_folders_Icons.zip | Process: explorer.exe
+2025-12-18 16:18:54 - Click sent, waited 100ms
+2025-12-18 16:18:54 - After click - Active window ID: 2952246 | Title: Machines | Process: explorer.exe
+2025-12-18 16:18:54 - Pre-click window minimized? YES
+2025-12-18 16:18:54 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-18 16:18:54 - BLOCKED: Cannot kill explorer.exe
+2025-12-18 16:18:54 - ========== COMPLETED ==========
+
+2025-12-18 16:18:56 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-18 16:18:56 - Mouse position: 1219, 1393 | Window ID under cursor: 262588
+2025-12-18 16:18:56 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:18:56 - Confirmed on taskbar - proceeding
+2025-12-18 16:18:56 - Before click - Active window ID: 329784 | Title: Steam | Process: explorer.exe
+2025-12-18 16:18:56 - Click sent, waited 100ms
+2025-12-18 16:18:56 - After click - Active window ID: 2952246 | Title: Machines | Process: explorer.exe
+2025-12-18 16:18:56 - Pre-click window minimized? YES
+2025-12-18 16:18:56 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-18 16:18:56 - BLOCKED: Cannot kill explorer.exe
+2025-12-18 16:18:56 - ========== COMPLETED ==========
+
+2025-12-18 16:19:08 - ========== CTRL+ALT+MBUTTON TRIGGERED ==========
+2025-12-18 16:19:08 - Mouse position: 563, 1086 | Window ID under cursor: 262588
+2025-12-18 16:19:08 - Window class under cursor: Shell_TrayWnd
+2025-12-18 16:19:08 - Confirmed on taskbar - proceeding
+2025-12-18 16:19:08 - Before click - Active window ID: 1381118 | Title: Oracle VirtualBox Manager | Process: VirtualBox.exe
+2025-12-18 16:19:08 - Click sent, waited 100ms
+2025-12-18 16:19:08 - After click - Active window ID: 526332 | Title: Oracle VirtualBox Manager | Process: VirtualBox.exe
+2025-12-18 16:19:08 - Pre-click window minimized? YES
+2025-12-18 16:19:08 - Decision: Clicked window minimized it. Killing pre-click process.
+2025-12-18 16:19:08 - Executing: taskkill /F /IM VirtualBox.exe
+2025-12-18 16:19:08 - SUCCESS: Killed all instances of VirtualBox.exe
+2025-12-18 16:19:08 - ========== COMPLETED ==========
+

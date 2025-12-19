@@ -1,3 +1,5 @@
+; Main entry point for the Parasomnia AutoHotkey script suite - configures global settings, imports modules, and initializes all functionality
+
 ; =========== SET RECCOMENDED DEFAULT SETTINGS ===========
 
 #Requires AutoHotkey v2.0
@@ -14,55 +16,23 @@ SetNumLockState("AlwaysOn")
 SetScrollLockState("AlwaysOff")
 Persistent
 
-
-
-
-
-; =========== REGISTER EXIT HANDLER ===========
-
-OnExit(ExitFunc)                                                                                                      
-
-
-
-; =========== VERIFY THE SCRIPT IS RUNNING WITH ADMIN PRIVILEGES ===========
-
-if !A_IsAdmin {                                                                                                       
-     try {
-         Run('*RunAs "' A_AhkPath '" "' A_ScriptFullPath '"')
-     } catch {
-         MsgBox("Failed to attain administrator privilege level. Please run the script as an administrator.")    
-     }
-}
-
-
-
-
-
-
-; =========== LAUNCH WATCHDOG SCRIPT ===========
-
-Run(A_ScriptDir "\scripts\core\watchDog.ahk") 
-
-
-
-
-; =========== DEFINE CUSTOM MODIFIER KEYS ===========
-KC_MEH := "!^+"         ; Define the Meh key combination as Alt+Ctrl+Shift
-KC_HYPR := "#!^+"       ; Define the Hyper key combination as Win+Alt+Ctrl+Shift
-
-
+A_MenuMaskKey := "vkFF"
 
 ; =========== IMPORT SMALLER SCRIPTS AND MODULES ===========
 
+#Include scripts/core/autorun.ahk                             ; Run all code meant to run when the script starts. 
+#Include scripts/core/HyperBlock.ahk
 #Include scripts/core/exitHandler.ahk                         ; Unhide all Hidden Windows When Script Exits
+#Include scripts/functions/simpleFunctions.ahk              ; Functions that complete a single specific job and are reusable in more than one script. 
 #Include scripts/hotkeys/hotkeys.ahk                          ; General Purpose Hotkey Creation
 #Include scripts/hotkeys/hotstrings.ahk                       ; General Purpose Hotstring Creation
-#Include scripts/reusableFunctions/simpleFunctions.ahk        ; Single Purpose Functions called by Hotkeys and other more complex scripts
-#Include scripts/reusableFunctions/advancedFunctions.ahk      ; Single Purpose Functions called by Hotkeys and other more complex scripts
+#Include scripts/modules/hiddenWindows.ahk
 #Include scripts/modules/TaskbarClose.ahk                     ; Ctrl+Middle Click on Taskbar to Close Window
 #Include scripts/modules/dontSleep.ahk                        ; Mouse Jiggler / Keep Alive
 #Include scripts/modules/forcekill.ahk                        ; Allows the forceful termination of applications
 #Include scripts/modules/VRGameFocusManager.ahk               ; Ensures Game Focus for HereSphere
+#Include scripts/modules/comPalGuard.ahk                      ; Closes Command Pallette when it loses Focus
+#Include scripts/modules/toggleWindowsTitlebar.ahk            ; Toggles the Windows Native Titlebar & Border
 
 
 
@@ -70,7 +40,7 @@ KC_HYPR := "#!^+"       ; Define the Hyper key combination as Win+Alt+Ctrl+Shift
 
 ; =========== VERIFY THE COMMAND PALETTE IS RUNNING ===========
 
-CheckCommandPalette()
+; CheckCommandPalette()
 
 
 

@@ -1,4 +1,4 @@
-; Defines text replacement hotstrings (e.g., ~/ expands to user profile path)
+; Toggles the title bar and border of the active window using Alt+F3 hotkey
 
 #Requires AutoHotkey v2.0
 
@@ -12,16 +12,21 @@
     }
 }
 
-autorun_hotstrings(*) {
+autorun_toggleWindowsTitlebar(*) {
 	Return
 }
 /* ------------------------------------------------------------------------------------------------------ */
 
+toggleWindowsTitlebar(){
+    MsgBox("Triggered")
+    hwnd := WinGetID("A")
+    style := WinGetStyle(hwnd)
 
-:*:~/:: {                                       ; Type ~/ and get C:\Users\Andrew
-    Send(A_UserProfile)
+    if (style & 0xC00000) {           ; WS_CAPTION present? [web:11][web:21]
+        ; Remove caption (title bar + border)
+        WinSetStyle("-0xC00000", hwnd)
+    } else {
+        ; Add caption back
+        WinSetStyle("+0xC00000", hwnd)
+    }
 }
-
-
-
-

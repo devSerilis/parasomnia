@@ -1,6 +1,21 @@
+; Provides time manipulation utilities - converts time formats, checks time ranges, and calculates minutes since midnight
+
 #Requires AutoHotkey v2.0
 
+/* ------------------------------------------------------------------------------------------------------ */
+{
+    DetectHiddenWindows True
+    ScriptFileName := SubStr(A_LineFile, InStr(A_LineFile, "\",, -1) + 1)
+    if (WinExist(ScriptFileName " ahk_class AutoHotkey")) {
+        MsgBox("This is a sub-module of parasomnia.ahk and is not intended to be run independently. Forcibly Terminating Now.")
+        ExitApp
+    }
+}
 
+autorun_timeKeepings(*) {
+	Return
+}
+/* ------------------------------------------------------------------------------------------------------ */
 
 ; Core function - returns minutes since midnight
 currentTimeInMinutes() {
@@ -28,6 +43,10 @@ MinutesToTime(minutes) {
     hours := Floor(minutes / 60)
     mins := Mod(minutes, 60)
     return Format("{:02d}:{:02d}", hours, mins)
+}
+
+timeNow(*) {
+    FormatTime(A_Now,"hh꞉mm")
 }
 
 ; Usage examples:

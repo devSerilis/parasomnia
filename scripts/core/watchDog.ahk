@@ -1,14 +1,15 @@
+; Monitors the main Parasomnia script and automatically restarts it if it crashes or stops running
+
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 #WinActivateForce
 #NoTrayIcon 
 
 SetTimer(CheckMainScript, 5000)  ; Check every 5 seconds
-SetTimer(CheckCommandPalette, 5000)  ; Check Command Palette every 5 seconds
 
 CheckMainScript() {
     ; Get the full path of our target script
-    targetScript := A_ScriptDir . "\parasomnia.ahk"
+    targetScript := A_ScriptDir . "\..\..\parasomnia.ahk"
     
     ; Use ProcessExist to check if our script is still running
     ; We'll need to look at the command line of each AutoHotkey process
@@ -28,13 +29,16 @@ CheckMainScript() {
     }
 }
 
-CheckCommandPalette() {
+
+/*
+ CheckCommandPalette() {
     ; Check if PowerToys Command Palette is running
     if (!ProcessExist("Microsoft.CmdPal.UI.exe")) {
         ; Command Palette is not running, launch it
-        cmdPalPath := "C:\Program Files\WindowsApps\Microsoft.CommandPalette_0.6.2882.0_x64__8wekyb3d8bbwe\Microsoft.CmdPal.UI.exe"
+        cmdPalPath := "C:\Program Files\WindowsApps\Microsoft.CommandPalette_0.7.3271.0_x64__8wekyb3d8bbwe\Microsoft.CmdPal.UI.exe"
         try {
             Run(cmdPalPath)
         }
     }
-}
+} 
+*/

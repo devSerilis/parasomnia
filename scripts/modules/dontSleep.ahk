@@ -1,3 +1,5 @@
+; Mouse jiggler that automatically moves the mouse during work hours (7:45 AM - 6:00 PM) to prevent screen lock and inactivity timeouts
+
 #Requires AutoHotkey v2.0
 
 {
@@ -9,9 +11,13 @@
     }
 }
 
+autorun_dontSleep(*){
+    Return
+}
+
 
 ; Global variable to track if the timer is active
-global isTimerActive := false
+; global isTimerActive := false -- moved to globalVariables.ahk
 
 ; Function to check if current time is within work hours (7:45 AM to 6:00 PM)
 IsWorkHours2() {
@@ -56,9 +62,12 @@ MoveMouseRandomly() {
     
     ; Move the mouse
     MouseMove(currentX + moveX, currentY + moveY, 2)  ; '2' is a slow movement speed
-    
+
     ; Optional: Move mouse back to original position after a short delay
-    SetTimer(() => MouseMove(currentX, currentY, 2), -50)  ; Move back after 50ms
+    ; Capture the original position before the timer
+    origX := currentX
+    origY := currentY
+    SetTimer(() => (MouseMove(origX, origY, 2), ""), -50)  ; Move back after 50ms
     
     ; Set the next timer for a random interval between 3-5 minutes
     if isTimerActive {
